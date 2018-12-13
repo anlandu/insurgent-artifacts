@@ -197,7 +197,7 @@ if sys.version_info[0] == 3:
 else:
     def encode(s):
         if isinstance(s, basestring):
-            return s.encode('utf-8', ignore) # pylint: disable-msg=C0103
+            return s.encode('utf-8', errors="ignore") # pylint: disable-msg=C0103
         else:
             return str(s)
 
@@ -755,6 +755,7 @@ class SearchScholarQuery(ScholarQuery):
     """
     SCHOLAR_QUERY_URL = ScholarConf.SCHOLAR_SITE + '/scholar?' \
         + 'start=%(page_num)s' \
+        + '&cites=%(cites)s' \
         + '&as_q=%(words)s' \
         + '&as_epq=%(phrase)s' \
         + '&as_oq=%(words_some)s' \
@@ -768,10 +769,10 @@ class SearchScholarQuery(ScholarQuery):
         + '&btnG=&hl=en' \
         + '%(num)s' \
         + '&as_sdt=%(patents)s%%2C5'
-
     def __init__(self):
         ScholarQuery.__init__(self)
         self._add_attribute_type('num_results', 'Results', 0)
+        self.cites = None # No default url
         self.page_num = 0 # Start on first page
         self.words = None # The default search behavior
         self.words_some = None # At least one of those words
@@ -783,6 +784,11 @@ class SearchScholarQuery(ScholarQuery):
         self.timeframe = [None, None]
         self.include_patents = True
         self.include_citations = True
+
+    def set_cites(self, cites):
+        """Sets page number of search results (by setting starting article to
+        the page_num*10th article)"""
+        self.cites = cites
 
     def set_page_num(self, page_num):
         """Sets page number of search results (by setting starting article to
@@ -838,7 +844,7 @@ class SearchScholarQuery(ScholarQuery):
         self.include_patents = yesorno
 
     def get_url(self):
-        if self.words is None and self.words_some is None \
+        if self.cites is None and self.words is None and self.words_some is None \
            and self.words_none is None and self.phrase is None \
            and self.author is None and self.pub is None \
            and self.timeframe[0] is None and self.timeframe[1] is None:
@@ -857,7 +863,8 @@ class SearchScholarQuery(ScholarQuery):
         if self.words_none:
             words_none = self._parenthesize_phrases(self.words_none)
 
-        urlargs = {'page_num': self.page_num or '',
+        urlargs = { 'cites': self.cites or '',
+                    'page_num': self.page_num or '',
                     'words': self.words or '',
                    'words_some': words_some or '',
                    'words_none': words_none or '',
@@ -877,7 +884,6 @@ class SearchScholarQuery(ScholarQuery):
         # server will not recognize them:
         urlargs['num'] = ('&num=%d' % self.num_results
                           if self.num_results is not None else '')
-
         return self.SCHOLAR_QUERY_URL % urlargs
 
 
@@ -1152,7 +1158,7 @@ def csv(querier, header=False, sep='|'):
     articles = querier.articles
     for art in articles:
         result = art.as_csv(header=header, sep=sep)
-        print(encode(result))
+        print(result.encode('UTF-8', errors="ignore"))
         header = False
 
 def citation_export(querier):
@@ -1183,6 +1189,8 @@ scholar.py -c 5 -a "albert einstein" -t --none "quantum theory" --after 1970"""
                                  'These options define search query arguments and parameters.')
     group.add_option('-a', '--author', metavar='AUTHORS', default=None,
                      help='Author name(s)')
+    group.add_option('-i', '--cites', metavar='CITES', default=None,
+                     help='Results must cite given article')
     group.add_option('-A', '--all', metavar='WORDS', default=None, dest='allw',
                      help='Results must contain all of these words')
     group.add_option('-s', '--some', metavar='WORDS', default=None,
@@ -1282,6 +1290,8 @@ scholar.py -c 5 -a "albert einstein" -t --none "quantum theory" --after 1970"""
         query = ClusterScholarQuery(cluster=options.cluster_id)
     else:
         query = SearchScholarQuery()
+        if options.cites:
+            query.set_cites(options.cites)
         if options.author:
             query.set_author(options.author)
         if options.allw:
