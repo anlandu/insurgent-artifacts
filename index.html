@@ -32,8 +32,8 @@
   var svg1=svg.append('g');
   var svg2=svg.append('g');
 
-  d3.csv("http://localhost:8000/workspace/insurgent-artifacts/data/PaperPoints.csv", function(error, nodes) {
-    d3.csv("http://localhost:8000/workspace/insurgent-artifacts/data/PaperLinks.csv", function(error, links) {
+  d3.csv("https://github.com/anlandu/insurgent-artifacts/blob/master/data/PaperPoints.csv", function(error, nodes) {
+    d3.csv("https://github.com/anlandu/insurgent-artifacts/blob/master/data/PaperLinks.csv", function(error, links) {
       var simulation = d3.forceSimulation()
         .force("link", d3.forceLink().id(function(d) {
           return d.id;
