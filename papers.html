@@ -107,7 +107,7 @@
           .attr("x", 0)
           .attr("id", function(d, i) { return "tspan1" + i; })
           .text(function(d) {
-            return d.ti.slice(0, 15) + "...";
+            return d.ti.slice(0, 10) + "...";
           })
           .style("font-size", "10px");
 
@@ -181,7 +181,7 @@
       function moretext(d, i) {
         d3.select("#tspan1"+i)
         .transition()
-        .duration(200)
+        .duration(100)
         .text(d.ti)
         .style("font-size", "30px");
         d3.select("#label"+i)
@@ -190,16 +190,23 @@
         .text("author(s):" + d.aanames.replace(/'/g, "").slice(1, -1))
         .style("font-size", "23px")
         .attr("dy", "30px")
+        .attr("x", d.x)
+        .append("tspan")
+        .attr("id", "tspan3"+i)
+        .text("# of citations:" + d.cc)
+        .style("font-size", "23px")
+        .attr("dy", "30px")
         .attr("x", d.x);
       }
 
       function lesstext(d, i) {
         d3.select("#tspan1"+i)
         .transition()
-        .duration(200)
-        .text(d.ti.slice(0, 15))
+        .duration(100)
+        .text(d.ti.slice(0, 10))
         .style("font-size", "10px");
         d3.select("#tspan2"+i).remove();
+        d3.select("#tspan3"+i).remove();
       }
 
       run()

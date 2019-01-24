@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+
+<head>
+  <meta charset="utf-8">
+  <style>
+    body {
+      font-family: "Inconsolata";
+    }
+  </style>
+</head>
+<div id="container"></div>
+<svg width="960" height="600"></svg>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet">
+<script>
+  console.log("hello!")
+  const margin = {
+      top: 30,
+      bottom: 50,
+      left: 100,
+      right: 30,
+    },
+    width = window.innerWidth - margin.left - margin.right,
+    height = window.innerHeight - margin.top - margin.bottom;
+
+  var svg = d3.select("svg")
+    .attr("width", width)
+    .attr("height", height)
+    .style("margin", "0 auto")
+    .style("display", "block")
+    .style("overflow", "visible");
+
+  var svg1=svg.append('g');
+  var svg2=svg.append('g');
+
+  d3.csv("data/Authors.csv", function(error, nodes) {
+    d3.csv("data/AuthorLinks.csv", function(error, links) {
+      var simulation = d3.forceSimulation()
+        .force("link", d3.forceLink().id(function(d) {
+          return d.num;
+        }))
+        //.force("charge", d3.forceManyBody().strength(-200))
+        .force('charge', d3.forceManyBody()
+          .strength(-200)
+          .theta(0.8)
+          .distanceMax(150)
+        )
+        // 		.force('collide', d3.forceCollide()
+        //       .radius(d => 40)
+        //       .iterations(2)
+        //     )
+        .force("center", d3.forceCenter(width / 2, height / 2));
+
+
+
+
+      function run() {
+
+        links.forEach(function(d) {
+          //     d.source = d.source_id;
+          //     d.target = d.target_id;
+        });
+
+        var link = svg2.append("g")
+          .style("stroke", "#aaa")
+          .selectAll("line")
+          .data(links)
+          .enter().append("line")
+          .attr('marker-end','url(#arrowhead)');
+
+        svg2.append('defs').append('marker')
+          .attr('id', 'arrowhead')
+          .attr('viewBox', '-0 -5 10 10')
+          .attr('refX', 13)
+          .attr('refY', 0)
+          .attr('orient', 'auto')
+          .attr('markerHeight', 13)
+          .attr('markerWidth', 13)
+          .attr('xoverflow', 'visible')
+          .append('svg:path')
+          .attr('d', 'M 0,-2 L 5 ,0 L 0,2')
+          .attr('fill', '#999')
+          .style('stroke', 'none');
+
+        var node = svg1.append("g")
+          .attr("class", "nodes")
+          .attr("id", function(d,i) { return "node"+i; })
+          .selectAll("circle")
+          .data(nodes)
+          .enter().append("circle")
+          .on("mouseover", moretext)
+          .on("mouseout", lesstext)
+          .call(d3.drag()
+            .on("start", dragstarted)
+            .on("drag", dragged)
+            .on("end", dragended));
+
+        var label = svg2.append("g")
+          .attr("class", "labels")
+          .selectAll("text")
+          .data(nodes)
+          .enter().append("text")
+          .attr("class", "label")
+          .attr("id", function(d, i) { return "label" + i; })
+          .append("tspan")
+          .attr("dy", 0)
+          .attr("x", 0)
+          .attr("id", function(d, i) { return "tspan1" + i; })
+          .text(function(d) {
+            return d.name;
+          })
+          .style("font-size", "10px");
+
+        simulation
+          .nodes(nodes)
+          .on("tick", ticked);
+
+        simulation.force("link")
+          .links(links);
+
+        function ticked() {
+          link
+            .attr("x1", function(d) {
+              return d.source.x;
+            })
+            .attr("y1", function(d) {
+              return d.source.y;
+            })
+            .attr("x2", function(d) {
+              return d.target.x;
+            })
+            .attr("y2", function(d) {
+              return d.target.y;
+            });
+
+          node
+            .attr("r", function(d) {
+              return Math.sqrt(d.citations);
+            })
+            .style("fill", "#efefef")
+            .style("stroke", "#424242")
+            .style("stroke-width", "1px")
+            .attr("cx", function(d) {
+              return d.x + 5;
+            })
+            .attr("cy", function(d) {
+              return d.y - 3;
+            });
+
+          label
+            .attr("x", function(d) {
+              return d.x;
+            })
+            .attr("y", function(d) {
+              return d.y;
+            })
+            .style("fill", "#333");
+        }
+      }
+
+      function dragstarted(d) {
+        if (!d3.event.active) simulation.alphaTarget(0.3).restart()
+        d.fx = d.x
+        d.fy = d.y
+        //  simulation.fix(d);
+      }
+
+      function dragged(d) {
+        d.fx = d3.event.x
+        d.fy = d3.event.y
+        //  simulation.fix(d, d3.event.x, d3.event.y);
+      }
+
+      function dragended(d) {
+        d.fx = d3.event.x
+        d.fy = d3.event.y
+        if (!d3.event.active) simulation.alphaTarget(0);
+        //simulation.unfix(d);
+      }
+
+      function moretext(d, i) {
+        d3.select("#tspan1"+i)
+        .transition()
+        .duration(100)
+        .style("font-size", "30px");
+        d3.select("#label"+i)
+        .append("tspan")
+        .attr("id", "tspan2"+i)
+        .text("# of papers:" + d.numpapers)
+        .style("font-size", "23px")
+        .attr("dy", "30px")
+        .attr("x", d.x);
+      }
+
+      function lesstext(d, i) {
+        d3.select("#tspan1"+i)
+        .transition()
+        .duration(100)
+        .style("font-size", "10px");
+        d3.select("#tspan2"+i).remove();
+        d3.select("#tspan3"+i).remove();
+      }
+
+      run()
+    });
+  });
+</script>
