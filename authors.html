@@ -100,6 +100,7 @@
           .selectAll("text")
           .data(nodes)
           .enter().append("text")
+          .attr("pointer-events", "none")
           .attr("class", "label")
           .attr("id", function(d, i) { return "label" + i; })
           .append("tspan")

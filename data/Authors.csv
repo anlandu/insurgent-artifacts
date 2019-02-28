@@ -1,1125 +1,1458 @@
 ,name,num,citations,numpapers
-0,geert verhoeven,2169669433.0,1274.0,17.0
-1,haida liang,2094774220.0,221.0,1.0
-2,michael doneus,2077736714.0,846.0,15.0
-3,martin fera,2127616844.0,406.0,2.0
-4,christian briese,1834339306.0,698.0,9.0
-5,matthias kucera,2195221789.0,172.0,1.0
-6,wolfgang neubauer,2106824575.0,485.0,7.0
-7,frank vermeulen,2112772285.0,255.0,4.0
-8,martin janner,2550453853.0,234.0,1.0
-9,sharaf alkheder,2892748081.0,173.0,1.0
-10,yahya alshawabkeh,2021673803.0,173.0,1.0
-11,norbert haala,101171190.0,173.0,1.0
-12,dean goodman,2121269922.0,572.0,9.0
-13,salvatore piro,2197783474.0,341.0,5.0
-14,jurg leckebusch,2071346827.0,215.0,2.0
-15,chris gaffney,2150497552.0,178.0,5.0
-16,vince gaffney,2085043130.0,229.0,5.0
-17,eamonn baldwin,2178446697.0,69.0,1.0
-18,henry chapman,2159883538.0,69.0,1.0
-19,paul garwood,1317878389.0,69.0,1.0
-20,helen moulden,2052709406.0,69.0,1.0
-21,tom sparrow,2151428394.0,69.0,1.0
-22,richard bates,2292027454.0,69.0,1.0
-23,klaus locker,2107836043.0,69.0,1.0
-24,alois hinterleitner,2433864649.0,140.0,2.0
-25,immo trinks,2223747502.0,140.0,2.0
-26,erich nau,1919392508.0,69.0,1.0
-27,thomas zitz,1192561553.0,69.0,1.0
-28,sebastian floery,1965404890.0,69.0,1.0
-29,sarah parcak,2469453486.0,68.0,3.0
-30,david gathings,2032577763.0,22.0,1.0
-31,chase childs,2286580088.0,22.0,1.0
-32,greg mumford,2225881755.0,22.0,1.0
-33,eric h cline,2101448327.0,22.0,1.0
-34,arlen f chase,2168778769.0,153.0,2.0
-35,diane z chase,2077539664.0,153.0,2.0
-36,christopher t fisher,2111404777.0,135.0,3.0
-37,stephen j leisz,2495952034.0,135.0,3.0
-38,john f weishampel,2091044228.0,153.0,2.0
-39,sarah h parcak,253771894.0,184.0,1.0
-40,ralf hesse,2652057278.0,181.0,1.0
-41,b j devereux,2692190370.0,290.0,2.0
-42,g s amable,2709006732.0,290.0,2.0
-43,p crow,2702723102.0,290.0,2.0
-44,a d cliff,2697450189.0,158.0,1.0
-45,neil linford,1972671123.0,210.0,5.0
-46,paul linford,1985797339.0,154.0,2.0
-47,louise martin,2230518824.0,76.0,1.0
-48,andy payne,2171453219.0,76.0,1.0
-49,fulvio rinaudo,687459025.0,72.0,1.0
-50,filiberto chiabrando,2122991678.0,131.0,2.0
-51,andrea maria lingua,1924943578.0,72.0,1.0
-52,antonia teresa spano,2040988091.0,72.0,1.0
-53,bernth johansson,2156812960.0,71.0,1.0
-54,jaana gustafsson,2118105792.0,71.0,1.0
-55,jesper emilsson,2012208279.0,71.0,1.0
-56,johan gustaf friborg,2646209300.0,71.0,1.0
-57,christer gustafsson,2143261198.0,71.0,1.0
-58,johan nissen,2419516668.0,71.0,1.0
-59,lawrence b conyers,1392871264.0,227.0,6.0
-60,alois ederhinterleitner,1765929309.0,141.0,2.0
-61,sirri seren,2307196916.0,133.0,1.0
-62,peter melichar,1984613836.0,133.0,1.0
-63,martin sauerbier,2105245141.0,147.0,3.0
-64,henri eisenbeiss,2087314693.0,147.0,3.0
-65,rosa lasaponara,233151887.0,1033.0,30.0
-66,nicola masini,146908812.0,1024.0,28.0
-67,alfredo maximiano castillejo,2312988251.0,28.0,1.0
-68,jo loenders,2213385597.0,34.0,1.0
-69,roald docter,2122438261.0,40.0,2.0
-70,yasushi nishimura,2277217696.0,387.0,4.0
-71,jesse casana,2133247355.0,182.0,6.0
-72,john kantner,2717858826.0,58.0,1.0
-73,adam wiewel,2323350189.0,58.0,1.0
-74,jackson cothren,2154240125.0,156.0,4.0
-75,ziga kokalj,1988930059.0,112.0,1.0
-76,klemen zaksek,229551928.0,112.0,1.0
-77,kristof ostir,2151859425.0,195.0,2.0
-78,jason ur,1430897697.0,223.0,2.0
-79,fulong chen,2122728365.0,75.0,4.0
-80,ruixia yang,2615125436.0,32.0,2.0
-81,pietro milillo,2078479346.0,23.0,1.0
-82,dexian feng,2505691432.0,23.0,1.0
-83,deodato tapete,2051837759.0,249.0,7.0
-84,riccardo fanti,1977200140.0,133.0,2.0
-85,r cecchi,2577607131.0,65.0,1.0
-86,p petrangeli,1269756282.0,65.0,1.0
-87,nicola casagli,2094403090.0,133.0,2.0
-88,h bendea,2890138308.0,59.0,1.0
-89,f giulio tonolo,2653001404.0,59.0,1.0
-90,davide marenchino,1910570245.0,59.0,1.0
-91,karsten lambers,1914535798.0,106.0,4.0
-92,zhang li,2310846884.0,67.0,1.0
-93,rebecca bennett,2123181868.0,89.0,2.0
-94,kate welham,2289213271.0,103.0,3.0
-95,ross a hill,2468020076.0,89.0,2.0
-96,andrew l j ford,2310706129.0,89.0,2.0
-97,j d rogers,2717473455.0,185.0,1.0
-98,dimitrios alexakis,2830088056.0,73.0,1.0
-99,apostolos sarris,2139383741.0,313.0,8.0
-100,theodoros astaras,2894079658.0,73.0,1.0
-101,konstantinos albanakis,2072162632.0,73.0,1.0
-102,k themistocleous,672579825.0,25.0,2.0
-103,athos agapiou,2102797581.0,355.0,15.0
-104,branka cuca,958544279.0,15.0,1.0
-105,diofantos g hadjimitsis,1987843543.0,329.0,14.0
-106,james wiseman,2142452866.0,79.0,1.0
-107,farouk elbaz,1045709392.0,92.0,2.0
-108,juerg leckebusch,2608473440.0,82.0,1.0
-109,guido luzi,2039670884.0,68.0,1.0
-110,giovanni gigli,2134806551.0,68.0,1.0
-111,davide leva,2127224109.0,68.0,1.0
-112,chris roman,2145019425.0,70.0,1.0
-113,gabrielle inglis,2170294176.0,70.0,1.0
-114,james rutter,2489372338.0,70.0,1.0
-115,a p annan,2678571744.0,179.0,1.0
-116,benjamin stular,2656196460.0,83.0,1.0
-117,iga kokalj,2307227852.0,83.0,1.0
-118,laure nuninger,2047611814.0,83.0,1.0
-119,adam d booth,2423311355.0,119.0,3.0
-120,roger a clark,2467812216.0,63.0,2.0
-121,tavi murray,2102468776.0,63.0,2.0
-122,v de laet,2169294177.0,145.0,2.0
-123,etienne paulissen,1907811893.0,145.0,2.0
-124,marc waelkens,1481642178.0,145.0,2.0
-125,adrian myers,2142395980.0,61.0,1.0
-126,francesca cigna,1139602135.0,84.0,4.0
-127,daniel n m donoghue,2109518512.0,258.0,4.0
-128,kenneth l kvamme,2600466324.0,278.0,8.0
-129,aled rowlands,2096352476.0,119.0,1.0
-130,jon c henderson,2330015038.0,49.0,2.0
-131,oscar pizarro,2017108474.0,49.0,2.0
-132,matthew johnsonroberson,2033490064.0,49.0,2.0
-133,ian mahon,2076742173.0,36.0,1.0
-134,a t mozascalvache,2625022871.0,31.0,1.0
-135,jose luis perezgarcia,2207373149.0,31.0,1.0
-136,f j cardenalescarcena,2325228963.0,31.0,1.0
-137,e matacastro,2315661309.0,31.0,1.0
-138,j delgadogarcia,2625888111.0,31.0,1.0
-139,enzo rizzo,2299022984.0,37.0,2.0
-140,giuseppe orefici,1307530945.0,56.0,2.0
-141,jesse casana,2708339811.0,25.0,1.0
-142,mitra panahipour,2413682747.0,25.0,1.0
-143,rudi goossens,2097165080.0,120.0,2.0
-144,alain de wulf,2027984156.0,120.0,2.0
-145,jean bourgeois,2267678628.0,153.0,5.0
-146,wouter gheyle,1458861332.0,129.0,3.0
-147,tom willems,2893750063.0,120.0,2.0
-148,stefano campana,2892620085.0,42.0,3.0
-149,robert zlot,40910539.0,15.0,1.0
-150,michael bosse,2599308943.0,15.0,1.0
-151,claudio aporta,2678258285.0,136.0,1.0
-152,eric higgs,2654464210.0,136.0,1.0
-153,david hakken,2694088308.0,136.0,1.0
-154,lisa palmer,2475820454.0,136.0,1.0
-155,mark h palmer,2102680088.0,136.0,1.0
-156,robert rundstrom,2340907120.0,136.0,1.0
-157,bryan pfaffenberger,2711813333.0,136.0,1.0
-158,george w wenzel,2718442709.0,136.0,1.0
-159,thomas widlok,2811327513.0,136.0,1.0
-160,keith m prufer,667224886.0,38.0,1.0
-161,amy e thompson,2288923208.0,38.0,1.0
-162,douglas j kennett,2684801672.0,38.0,1.0
-163,anthony beck,2122419906.0,221.0,4.0
-164,graham philip,2141896634.0,200.0,2.0
-165,maamoun abdulkarim,2076396712.0,97.0,1.0
-166,armin grun,2603818810.0,28.0,1.0
-167,fabio remondino,5114806.0,42.0,2.0
-168,li zhang,2635977953.0,28.0,1.0
-169,motoyuki sato,2107078328.0,35.0,4.0
-170,jesus fernandezhernandez,2632198184.0,97.0,1.0
-171,diego gonzalezaguilera,2041873084.0,106.0,2.0
-172,pablo rodriguezgonzalvez,916236146.0,106.0,2.0
-173,juan mancerataboada,2179086799.0,106.0,2.0
-174,mark altaweel,1978271887.0,110.0,1.0
-175,keith challis,2076522883.0,257.0,6.0
-176,paolo forlin,1969652887.0,70.0,1.0
-177,mark kincey,1094293128.0,111.0,3.0
-178,mitch bryson,2127442694.0,13.0,1.0
-179,ariell friedman,2209974912.0,13.0,1.0
-180,giancarlo troni,676969794.0,13.0,1.0
-181,paul ozog,229212510.0,13.0,1.0
-182,clement atzberger,1679575905.0,44.0,2.0
-183,michael wess,1983554343.0,44.0,2.0
-184,michal rus,2304831108.0,31.0,1.0
-185,roland linck,2039579559.0,52.0,2.0
-186,thomas busche,2095415012.0,26.0,1.0
-187,stefan buckreuss,2081226198.0,26.0,1.0
-188,jorg w e fassbinder,705882724.0,52.0,2.0
-189,sirri seren,2807365348.0,26.0,1.0
-190,oivind due trier,1783373794.0,102.0,2.0
-191,siri oyen larsen,2165019760.0,81.0,1.0
-192,rune solberg,2170296248.0,81.0,1.0
-193,i scollar,2893803229.0,241.0,1.0
-194,eloi gattet,2436602574.0,8.0,1.0
-195,j devogelaere,1263003283.0,8.0,1.0
-196,romain raffin,2581367938.0,8.0,1.0
-197,laurent bergerot,1820883957.0,8.0,1.0
-198,marc daniel,2799102197.0,8.0,1.0
-199,ph jockey,2899200117.0,8.0,1.0
-200,l de luca,2251128550.0,8.0,1.0
-201,ole gron,2701104035.0,16.0,1.0
-202,susanna palmer,2550883242.0,16.0,1.0
-203,fransarne stylegar,2639201231.0,16.0,1.0
-204,kim h esbensen,41247394.0,16.0,1.0
-205,sergey kucheryavski,2527336977.0,16.0,1.0
-206,sigurd aase,2102228346.0,16.0,1.0
-207,p sapirstein,2584050089.0,25.0,1.0
-208,marco j giardino,2648680260.0,68.0,1.0
-209,dimitrios d alexakis,1993120014.0,264.0,10.0
-210,s gonizzi barsanti,2333830548.0,14.0,1.0
-211,d visintini,2678974096.0,14.0,1.0
-212,nikos papadopoulos,2320419332.0,30.0,1.0
-213,maria cristina salvi,2017240795.0,30.0,1.0
-214,william a parkinson,2621698461.0,30.0,1.0
-215,richard w yerkes,2074989338.0,30.0,1.0
-216,attila gyucha,300104971.0,30.0,1.0
-217,paul r duffy,2113314754.0,30.0,1.0
-218,danilo gallo,2145746520.0,88.0,3.0
-219,marcello ciminale,1965874878.0,112.0,5.0
-220,helmut becker,2509657949.0,133.0,3.0
-221,victor d thompson,2132998548.0,37.0,2.0
-222,philip j arnold,2100035487.0,27.0,1.0
-223,thomas pluckhahn,2689218802.0,27.0,1.0
-224,amber m vanderwarker,683208859.0,27.0,1.0
-225,thomas g garrison,2309836674.0,70.0,2.0
-226,stephen d houston,2579247553.0,70.0,2.0
-227,charles golden,2158017241.0,64.0,2.0
-228,takeshi inomata,2132977932.0,57.0,1.0
-229,zachary nelson,2063280807.0,57.0,1.0
-230,jessica munson,2106217231.0,57.0,1.0
-231,nives doneus,1359921447.0,42.0,2.0
-232,michael pregesbauer,2003373277.0,42.0,2.0
-233,gottfried mandlburger,2000938873.0,42.0,2.0
-234,jens wunderlich,2136254914.0,25.0,1.0
-235,gert wendt,2660713442.0,25.0,1.0
-236,sabine muller,2433808106.0,25.0,1.0
-237,simon keay,2116890535.0,132.0,3.0
-238,graeme earl,2117665592.0,57.0,1.0
-239,sophie hay,2112930218.0,57.0,1.0
-240,stephen kay,2167032031.0,57.0,1.0
-241,jessica ogden,2778894466.0,57.0,1.0
-242,k d strutt,1979260581.0,75.0,2.0
-243,m lo brutto,1973977791.0,19.0,1.0
-244,a borruso,2687675924.0,19.0,1.0
-245,a dargenio,2706403063.0,19.0,1.0
-246,apostolos sarris,2800877418.0,34.0,1.0
-247,a georgopoulos,2136041560.0,45.0,2.0
-248,julie m gallagher,2636756810.0,59.0,1.0
-249,richard l josephs,2039681322.0,59.0,1.0
-250,dominic powlesland,1301761586.0,35.0,2.0
-251,james lyall,2460269298.0,35.0,2.0
-252,guy hopkinson,2159822661.0,26.0,1.0
-253,maria beck,2688805940.0,26.0,1.0
-254,aidan harte,2616079886.0,26.0,1.0
-255,david stott,2575879891.0,26.0,1.0
-256,christoph siart,1969293336.0,89.0,1.0
-257,bernhard eitel,2035329611.0,89.0,1.0
-258,diamantis panagiotopoulos,2253124495.0,89.0,1.0
-259,christopher stewart,2144575447.0,35.0,2.0
-260,giovanni schiavon,2683429092.0,35.0,2.0
-261,david j prior,2095830836.0,93.0,1.0
-262,elisabetta mariani,2239943279.0,93.0,1.0
-263,john wheeler,2112284519.0,93.0,1.0
-264,giovanni leucci,2034046983.0,175.0,6.0
-265,ole risbol,2430289346.0,45.0,2.0
-266,anneli nesbakken,2333635962.0,45.0,2.0
-267,michael j harrower,2428135238.0,27.0,1.0
-268,peter masters,2225229069.0,30.0,2.0
-269,birger stichelbaut,2032927348.0,49.0,3.0
-270,l capineri,1972047346.0,12.0,1.0
-271,p falorni,1911930833.0,12.0,1.0
-272,g borgioli,1986020164.0,12.0,1.0
-273,andrea bulletti,2033499538.0,12.0,1.0
-274,s valentini,2227230301.0,12.0,1.0
-275,sergey ivashov,2080565558.0,12.0,1.0
-276,a zhuravlev,2016305497.0,12.0,1.0
-277,vladimir razevig,2029525818.0,12.0,1.0
-278,igor vasiliev,2274147446.0,12.0,1.0
-279,michele paradiso,2690976038.0,12.0,1.0
-280,m inagaki,2501556526.0,12.0,1.0
-281,c windsor,2443689563.0,12.0,1.0
-282,t bechtel,1964055496.0,12.0,1.0
-283,vasiliki lysandrou,2467911471.0,36.0,2.0
-284,jaime awe,2173167140.0,34.0,1.0
-285,gyles iannone,2122861598.0,34.0,1.0
-286,holley moyes,2049498015.0,34.0,1.0
-287,jason yaeger,2042174567.0,34.0,1.0
-288,m kathryn brown,2155875498.0,34.0,1.0
-289,ramesh l shrestha,2658503792.0,50.0,3.0
-290,william e carter,2305002241.0,82.0,4.0
-291,juan carlos fernandez diaz,2421841220.0,68.0,2.0
-292,kyoji doi,2633421815.0,7.0,1.0
-293,kazunori takahashi,2258673350.0,7.0,1.0
-294,luigia nuzzo,2311959461.0,62.0,3.0
-295,sergio negri,2475331732.0,57.0,3.0
-296,hanumant singh,2246091788.0,72.0,1.0
-297,jonathan adams,2479077230.0,72.0,1.0
-298,david a mindell,2077970540.0,94.0,3.0
-299,brendan foley,2098955788.0,72.0,1.0
-300,ian barnes,2598286043.0,66.0,1.0
-301,raffaele persico,2095231049.0,36.0,2.0
-302,alexandre novo,2306069960.0,112.0,6.0
-303,henrique lorenzo,2139025173.0,82.0,4.0
-304,fernando i rial,1872054508.0,50.0,2.0
-305,mercedes solla,2580057629.0,50.0,2.0
-306,rosa maria cavalli,2305176804.0,85.0,3.0
-307,francesca colosi,1865453616.0,63.0,2.0
-308,angelo palombo,2113064632.0,73.0,2.0
-309,stefano pignatti,2065385335.0,85.0,3.0
-310,maurizio poscolieri,2694747168.0,52.0,1.0
-311,renato saleri,2020311921.0,12.0,1.0
-312,marc pierrotdeseilligny,1984000208.0,12.0,1.0
-313,emmanuel bardiere,2222739301.0,12.0,1.0
-314,valeria cappellini,2306030603.0,12.0,1.0
-315,nicolas nony,2151549409.0,12.0,1.0
-316,livio de luca,2131431302.0,12.0,1.0
-317,massimiliano campi,2154970795.0,12.0,1.0
-318,albane burenscarozza,294891508.0,12.0,1.0
-319,pierre grussenmeyer,2091646378.0,12.0,1.0
-320,s guillemin,2052679633.0,12.0,1.0
-321,laurent carozza,2600847694.0,12.0,1.0
-322,francois leveque,2569661268.0,12.0,1.0
-323,vivien mathe,2599880734.0,12.0,1.0
-324,r coluzzi,2674676105.0,54.0,1.0
-325,albert yumin lin,2798401905.0,31.0,1.0
-326,shay harnoy,673652672.0,31.0,1.0
-327,nathan ricklin,2083464779.0,31.0,1.0
-328,kostas stamatiou,2016160904.0,31.0,1.0
-329,david kennedy,2170009896.0,133.0,2.0
-330,christiana papoutsa,1988478294.0,35.0,1.0
-331,george papadavid,2082864321.0,35.0,1.0
-332,ralf hesse,2696516467.0,24.0,1.0
-333,nikolaos galiatsatos,1123723900.0,112.0,2.0
-334,helen king,2487829615.0,10.0,1.0
-335,nigel king,2325300397.0,10.0,1.0
-336,emily a hinz,2305162603.0,16.0,2.0
-337,john f ferguson,2173513813.0,8.0,1.0
-338,louise pellerin,2040670238.0,8.0,1.0
-339,ann f ramenofsky,2336383998.0,8.0,1.0
-340,syed ali aqdus,1972711476.0,34.0,2.0
-341,w s hanson,2161810323.0,41.0,3.0
-342,jane drummond,2132260494.0,34.0,2.0
-343,lei luo,2687459879.0,19.0,1.0
-344,xinyuan wang,2306823122.0,19.0,1.0
-345,huadong guo,2115863081.0,19.0,1.0
-346,chuansheng liu,2646100689.0,19.0,1.0
-347,jie liu,2671113638.0,19.0,1.0
-348,li li,2647415036.0,19.0,1.0
-349,xiaocui du,2169115916.0,19.0,1.0
-350,guoquan qian,2648413183.0,19.0,1.0
-351,aihui jiang,2272031919.0,9.0,1.0
-352,nicola masini,2603438204.0,9.0,1.0
-353,luigi capozzoli,2154570752.0,19.0,2.0
-354,gerardo romano,2140959287.0,19.0,2.0
-355,maria sileo,1962934975.0,25.0,3.0
-356,panpan tang,2164229351.0,19.0,2.0
-357,panpan chen,2255883579.0,19.0,2.0
-358,guolin liu,2603510863.0,9.0,1.0
-359,s crutchley,2462802763.0,28.0,1.0
-360,mark d mccoy,1993885308.0,60.0,1.0
-361,gregory p asner,1998136094.0,60.0,1.0
-362,michael w graves,2297741447.0,60.0,1.0
-363,alexander tscharf,2587403515.0,10.0,1.0
-364,markus rumpler,1977674323.0,10.0,1.0
-365,friedrich fraundorfer,739217077.0,10.0,1.0
-366,gerhard mayer,2110823546.0,10.0,1.0
-367,horst bischof,2048481453.0,10.0,1.0
-368,p fallavollita,2666131524.0,9.0,1.0
-369,m balsi,2752689776.0,9.0,1.0
-370,s esposito,2751222217.0,9.0,1.0
-371,m g melis,2650881237.0,9.0,1.0
-372,m milanese,2676963956.0,9.0,1.0
-373,luca zappino,376715825.0,9.0,1.0
-374,juan carlos fernandezdiaz,2132520524.0,38.0,2.0
-375,ramesh l shrestha,2101017188.0,32.0,1.0
-376,craig l glennie,1991356509.0,32.0,1.0
-377,lara de giorgi,2553554634.0,13.0,1.0
-378,giuseppe scardozzi,2156571747.0,13.0,1.0
-379,helen patterson,2634149077.0,58.0,1.0
-380,alice claire gorman,2139493662.0,85.0,4.0
-381,urs boniger,1957109557.0,20.0,1.0
-382,jens tronicke,1759056120.0,20.0,1.0
-383,jaroslava panisova,1968541329.0,10.0,1.0
-384,marek frastia,1490052762.0,10.0,1.0
-385,tina wunderlich,2103595327.0,10.0,1.0
-386,roman pasteka,2293484238.0,10.0,1.0
-387,david kusnirak,1983672347.0,10.0,1.0
-388,c j vaughan,2691815835.0,179.0,1.0
-389,nicole dore,2143835462.0,46.0,4.0
-390,jolanda patruno,2009218270.0,46.0,4.0
-391,eric pottier,1930818359.0,11.0,1.0
-392,mattia crespi,2293820698.0,11.0,1.0
-393,wendy weaver,2177029759.0,14.0,1.0
-394,jeffrey e lucius,2705107727.0,32.0,1.0
-395,stephen h savage,2097394260.0,13.0,1.0
-396,thomas e levy,2309122928.0,19.0,2.0
-397,ian w n jones,2464522004.0,13.0,1.0
-398,paolo salonia,1855708696.0,16.0,1.0
-399,serena scolastico,1992325099.0,16.0,1.0
-400,andrea pozzi,2439253285.0,16.0,1.0
-401,andrea marcolongo,1934983169.0,16.0,1.0
-402,tommaso leti messina,2002832873.0,16.0,1.0
-403,lev eppelbaum,1965615194.0,63.0,1.0
-404,boris khesin,2149908056.0,63.0,1.0
-405,sonya e itkis,1989776452.0,63.0,1.0
-406,timothy saey,2086375726.0,30.0,3.0
-407,birger stichelbaut,2797071750.0,20.0,2.0
-408,veerle van eetvelde,1902659110.0,20.0,2.0
-409,marc van meirvenne,204222322.0,33.0,3.0
-410,stanley a ahler,2074220008.0,24.0,1.0
-411,simon crutchley,1664205314.0,49.0,2.0
-412,javier fernandezlozano,2581557153.0,14.0,1.0
-413,gabriel gutierrezalonso,2133618624.0,28.0,2.0
-414,christopher carey,2560991001.0,69.0,2.0
-415,tony brown,2711381588.0,53.0,1.0
-416,andy j howard,2247292572.0,128.0,4.0
-417,lynden p cooper,2134064181.0,53.0,1.0
-418,elena bonali,1731906438.0,10.0,1.0
-419,a pesci,2650308125.0,10.0,1.0
-420,g casula,2722622979.0,10.0,1.0
-421,enzo boschi,2165376601.0,10.0,1.0
-422,s malagodi,2070005598.0,83.0,1.0
-423,luciana orlando,2172039928.0,115.0,3.0
-424,s piro,2720009175.0,83.0,1.0
-425,f rosso,2305407655.0,83.0,1.0
-426,k haubeck,2299315918.0,6.0,1.0
-427,torsten prinz,2125257750.0,6.0,1.0
-428,tommy ike hailey,2552152799.0,19.0,1.0
-429,igor miholjek,2628048938.0,12.0,1.0
-430,mattia crespi,2304410050.0,12.0,1.0
-431,eric pottier,2495836570.0,12.0,1.0
-432,fabio bruno,2137354898.0,20.0,2.0
-433,maurizio muzzupappa,139988561.0,20.0,2.0
-434,antonio lagudi,367839808.0,8.0,1.0
-435,alessandro gallo,2265260061.0,20.0,2.0
-436,francesco spadafora,2036915485.0,8.0,1.0
-437,gerardo ritacco,2665367255.0,8.0,1.0
-438,a angilica,2640454240.0,8.0,1.0
-439,loris barbieri,2132451646.0,8.0,1.0
-440,n di lecce,2225064621.0,8.0,1.0
-441,giacomo saviozzi,2158499183.0,8.0,1.0
-442,cecilia laschi,286952618.0,8.0,1.0
-443,r guida,2427543796.0,8.0,1.0
-444,g di stefano,2681616185.0,8.0,1.0
-445,michel dabas,2058258699.0,64.0,5.0
-446,gianfranco morelli,1971021672.0,23.0,2.0
-447,peter holt,2647491427.0,20.0,1.0
-448,carl p lipo,2443735199.0,63.0,1.0
-449,terry l hunt,2043174931.0,63.0,1.0
-450,rosa coluzzi,2305406398.0,32.0,2.0
-451,fabrizio terenzio gizzi,2031652222.0,23.0,1.0
-452,a lagudi,2808851455.0,12.0,1.0
-453,b davidde petriaggi,2682934997.0,12.0,1.0
-454,salvatore passaro,1900052055.0,12.0,1.0
-455,jonathan l carrivick,192218211.0,26.0,1.0
-456,mark w smith,2617356783.0,26.0,1.0
-457,duncan j quincey,2026582504.0,26.0,1.0
-458,steve carver,2161849260.0,26.0,1.0
-459,ole martin bollandsas,2159992795.0,21.0,1.0
-460,hans ole orka,307237144.0,21.0,1.0
-461,erik naesset,2130404121.0,21.0,1.0
-462,terje gobakken,86663967.0,21.0,1.0
-463,stefan erasmi,1678881218.0,17.0,1.0
-464,ralph rosenbauer,2305808187.0,17.0,1.0
-465,ralf buchbach,2631061446.0,17.0,1.0
-466,thomas busche,2655685028.0,17.0,1.0
-467,susanne muriel rutishauser,2043466164.0,17.0,1.0
-468,jeremy green,2143004190.0,53.0,1.0
-469,sheila matthews,2115671785.0,53.0,1.0
-470,tufan turanli,2607061015.0,53.0,1.0
-471,g leblanc,2818287102.0,20.0,2.0
-472,margaret kalacska,2089029783.0,10.0,1.0
-473,raymond soffer,2309001444.0,10.0,1.0
-474,konstantinos g nikolakopoulos,2561999872.0,11.0,1.0
-475,konstantina soura,2521299248.0,11.0,1.0
-476,ioannis koukouvelas,754045434.0,11.0,1.0
-477,nikolaos argyropoulos,2120983740.0,11.0,1.0
-478,giorgos papadavid,2278732804.0,16.0,1.0
-479,martin j f fowler,2495405225.0,81.0,2.0
-480,john schultz,2125273185.0,40.0,2.0
-481,michael m martin,2586474977.0,29.0,1.0
-482,giovanni maria carlomagno,1965809585.0,16.0,1.0
-483,rosa di maio,2506914586.0,16.0,1.0
-484,maurizio fedi,2093564473.0,16.0,1.0
-485,carosena meola,2103363013.0,16.0,1.0
-486,r lasaponara,2425893104.0,9.0,1.0
-487,n masini,2424475043.0,9.0,1.0
-488,rafael holmgren,2609421251.0,9.0,1.0
-489,y backe forsberg,2300885633.0,9.0,1.0
-490,ginesse a listi,305562247.0,11.0,1.0
-491,mary h manhein,211405542.0,11.0,1.0
-492,michael leitner,2119022519.0,11.0,1.0
-493,fabio remondino,2603382468.0,14.0,1.0
-494,paolo mozzi,1929495945.0,6.0,1.0
-495,alessandro fontana,2282610807.0,6.0,1.0
-496,francesco ferrarese,2026177842.0,6.0,1.0
-497,andrea ninfo,2013490024.0,6.0,1.0
-498,roberto francese,2511048172.0,6.0,1.0
-499,anthony corns,2136335310.0,25.0,1.0
-500,robert shaw,2171091052.0,25.0,1.0
-501,dimitris kaimaris,1983130135.0,22.0,1.0
-502,olga georgoula,2043861242.0,22.0,1.0
-503,petros patias,682610978.0,22.0,1.0
-504,eustratios stylianidis,2084757237.0,22.0,1.0
-505,philippe smet,2126899833.0,20.0,1.0
-506,dirk poelman,1970773585.0,20.0,1.0
-507,yannick van hollebeeke,2297158594.0,9.0,1.0
-508,stephanie verplaetse,2420596929.0,9.0,1.0
-509,deng biao,2673260233.0,6.0,1.0
-510,jeanpaul deroin,1962718514.0,24.0,1.0
-511,florian tereygeol,269525963.0,24.0,1.0
-512,jurgen heckes,2396570167.0,24.0,1.0
-513,michael rogers,2149215337.0,12.0,1.0
-514,jeffrey f leon,2143368555.0,12.0,1.0
-515,kevin d fisher,2097163636.0,12.0,1.0
-516,sturt w manning,2326812004.0,12.0,1.0
-517,david a sewell,2496204321.0,12.0,1.0
-518,thomas oliver pryce,2010148488.0,22.0,2.0
-519,m j abrams,2709918107.0,11.0,1.0
-520,rosa maria cavalli,2707631004.0,20.0,1.0
-521,giorgio licciardi,1533580016.0,20.0,1.0
-522,jocelyn chanussot,1995330977.0,20.0,1.0
-523,mariam samaan,2638762585.0,7.0,1.0
-524,raphaele heno,2586825931.0,7.0,1.0
-525,marc pierrotdeseilligny,2226352149.0,7.0,1.0
-526,t van damme,2562550613.0,9.0,1.0
-527,john gater,2120432532.0,97.0,3.0
-528,roger white,2148580738.0,78.0,1.0
-529,ralf hesse,2682075049.0,14.0,1.0
-530,francesco soldovieri,662759263.0,22.0,2.0
-531,j l davis,2524551721.0,68.0,1.0
-532,j a heginbottom,2664193632.0,68.0,1.0
-533,a p annan,2644842042.0,68.0,1.0
-534,r s daniels,2525998374.0,68.0,1.0
-535,b p berdal,2580768073.0,68.0,1.0
-536,t bergan,2525048760.0,68.0,1.0
-537,k e duncan,2525145247.0,68.0,1.0
-538,p k lewin,2654886883.0,68.0,1.0
-539,j s oxford,2526679894.0,68.0,1.0
-540,n roberts,2527637295.0,68.0,1.0
-541,j j skehel,2598249520.0,68.0,1.0
-542,c r smith,2525685245.0,68.0,1.0
-543,stefano campana,2190919569.0,36.0,4.0
-544,stine barlindhaug,2233673106.0,16.0,1.0
-545,inger marie holmolsen,2636873272.0,16.0,1.0
-546,hans tommervik,2631685629.0,16.0,1.0
-547,lars holger pilo,2632528483.0,21.0,1.0
-548,a mouget,2318143263.0,6.0,1.0
-549,g lucet,2628809062.0,6.0,1.0
-550,eleni diamanti,2106220596.0,11.0,1.0
-551,fotini vlachaki,2717189156.0,11.0,1.0
-552,f mercuri,2159697704.0,15.0,1.0
-553,roberta gnoli,2638594626.0,15.0,1.0
-554,s paoloni,2634039643.0,15.0,1.0
-555,noemi orazi,1719070581.0,15.0,1.0
-556,cristina cicero,2227447098.0,15.0,1.0
-557,u zammit,1829473803.0,15.0,1.0
-558,m marinelli,2792227454.0,15.0,1.0
-559,f scudieri,431790006.0,15.0,1.0
-560,peng lu,2642719917.0,10.0,1.0
-561,qifeng ge,2744784462.0,10.0,1.0
-562,paul e buck,1971398447.0,20.0,1.0
-563,donald e sabol,2159295795.0,20.0,1.0
-564,alan r gillespie,2136943937.0,20.0,1.0
-565,e rizzo,2697863375.0,13.0,1.0
-566,g orefici,2693534816.0,13.0,1.0
-567,yang lin,2336580750.0,7.0,1.0
-568,margaret brown vega,2310374343.0,10.0,1.0
-569,nathan craig,1977077451.0,10.0,1.0
-570,gerbert asencios lindo,2010729639.0,10.0,1.0
-571,bruce chapman,2151248842.0,19.0,2.0
-572,edwin roman,2166885453.0,13.0,1.0
-573,jose luis garrido lopez,2556217711.0,13.0,1.0
-574,shanti pappu,2158148924.0,22.0,1.0
-575,kumar akhilesh,2580858403.0,22.0,1.0
-576,sudha ravindranath,2151007825.0,22.0,1.0
-577,uday raj,1866305057.0,22.0,1.0
-578,vid petrovic,2442924155.0,6.0,1.0
-579,david vanoni,2112491573.0,6.0,1.0
-580,ashley m richter,2183259269.0,6.0,1.0
-581,falko kuester,1975749114.0,6.0,1.0
-582,veronique de laet,1822452753.0,11.0,1.0
-583,gertrud van loon,2145908065.0,11.0,1.0
-584,athena van der perre,2315420599.0,11.0,1.0
-585,iris deliever,2554973321.0,11.0,1.0
-586,harco willems,2113513447.0,11.0,1.0
-587,carrie hritz,2661484647.0,22.0,1.0
-588,kurt a jordan,2126753665.0,16.0,1.0
-589,m c hernandez,2683766552.0,24.0,1.0
-590,v cuellar,2661347963.0,24.0,1.0
-591,maria danese,2101568107.0,15.0,1.0
-592,timothy murtha,2003299285.0,7.0,1.0
-593,bruce d cook,2141281351.0,7.0,1.0
-594,derek shaffer,2648809741.0,7.0,1.0
-595,whittaker schroder,2142418498.0,7.0,1.0
-596,elijah j hermitt,2712197541.0,7.0,1.0
-597,omar alcover firpi,2514079686.0,7.0,1.0
-598,andrew k scherer,2169520167.0,7.0,1.0
-599,anna schneider,2128216079.0,16.0,1.0
-600,melanie takla,2061988325.0,16.0,1.0
-601,alexander nicolay,2149713663.0,16.0,1.0
-602,alexandra raab,2025667892.0,16.0,1.0
-603,thomas raab,1992513227.0,16.0,1.0
-604,jay k johnson,2397719753.0,77.0,2.0
-605,marco giardano,2549205119.0,77.0,2.0
-606,r berle clay,2284107172.0,77.0,2.0
-607,thomas j green,2556780817.0,77.0,2.0
-608,rinita a dalan,2093835385.0,98.0,4.0
-609,kazuya nakano,2409063806.0,8.0,1.0
-610,hirofumi chikatsu,1705905948.0,8.0,1.0
-611,s j winterbottom,2707986727.0,18.0,1.0
-612,tom dawson,2590650281.0,18.0,1.0
-613,carrie a healy,2581560072.0,11.0,1.0
-614,kenneth parker,2718109987.0,11.0,1.0
-615,bim lowers,2084921354.0,11.0,1.0
-616,daniel p bigman,2318398811.0,17.0,1.0
-617,ronald peikert,2591446475.0,23.0,1.0
-618,christopher sevara,2310247771.0,20.0,2.0
-619,wilfried karel,2155243864.0,42.0,4.0
-620,camillo ressl,1953889480.0,21.0,2.0
-621,travis freeland,2516925689.0,13.0,1.0
-622,brandon heung,2552847950.0,13.0,1.0
-623,david v burley,1989736159.0,13.0,1.0
-624,geoffrey clark,2110778013.0,13.0,1.0
-625,anders knudby,2060985242.0,13.0,1.0
-626,cristiana bassani,2043845686.0,21.0,1.0
-627,roberto goffredo,2635457114.0,21.0,1.0
-628,simone pascucci,1979140108.0,33.0,2.0
-629,jarrod burks,2721858661.0,16.0,1.0
-630,robert a cook,2095800617.0,16.0,1.0
-631,ahmed gaber,2059470363.0,13.0,1.0
-632,magaly koch,2170652813.0,13.0,1.0
-633,m helmi griesh,364503106.0,13.0,1.0
-634,raf trommelmans,2297390270.0,26.0,1.0
-635,ignace bourgeois,2021237153.0,26.0,1.0
-636,keith morrison,2160686087.0,10.0,1.0
-637,brooke a berard,2253056947.0,17.0,1.0
-638,j m maillol,2707589084.0,17.0,1.0
-639,christian a kull,1804644575.0,62.0,1.0
-640,rachel opitz,2147751813.0,9.0,1.0
-641,krysta ryzewski,2049036736.0,9.0,1.0
-642,john f cherry,2487663814.0,9.0,1.0
-643,brenna moloney,2616701902.0,9.0,1.0
-644,david bescoby,2132416217.0,26.0,3.0
-645,jeffrey fleisher,2221595565.0,14.0,1.0
-646,paul cheetham,2108954026.0,14.0,1.0
-647,harry manley,2345655611.0,14.0,1.0
-648,c steele,2522552910.0,14.0,1.0
-649,stephanie wynnejones,1999896335.0,14.0,1.0
-650,thomas l sever,2142960093.0,58.0,1.0
-651,daniel e irwin,2507932216.0,58.0,1.0
-652,m mirza,2681820977.0,8.0,1.0
-653,g dawod,2643921049.0,8.0,1.0
-654,k alghamdi,2687999616.0,8.0,1.0
-655,mariangela noviello,2222578724.0,17.0,1.0
-656,vito de pasquale,2666438644.0,17.0,1.0
-657,volkmar schultze,2099708036.0,33.0,3.0
-658,sven linzen,2314233517.0,33.0,3.0
-659,tim schuler,2190849388.0,21.0,2.0
-660,andreas chwala,1965510008.0,33.0,3.0
-661,ronny stolz,2133916682.0,33.0,3.0
-662,marco schulz,2291888949.0,33.0,3.0
-663,hansgeorg meyer,2191669100.0,21.0,2.0
-664,c richard bates,2651714760.0,10.0,1.0
-665,mark lawrence,2430500885.0,10.0,1.0
-666,martin dean,2554603063.0,10.0,1.0
-667,philip robertson,2802105558.0,10.0,1.0
-668,raffaella brumana,210273175.0,8.0,1.0
-669,daniela oreni,56393418.0,8.0,1.0
-670,l van hecke,2789777154.0,8.0,1.0
-671,luigi barazzetti,2791746955.0,8.0,1.0
-672,mattia previtali,2115814184.0,8.0,1.0
-673,fabio roncoroni,730126969.0,8.0,1.0
-674,r valente,2745635594.0,8.0,1.0
-675,yvonne m fowler,2636239501.0,25.0,1.0
-676,pier matteo barone,2623044542.0,17.0,2.0
-677,elisabetta mattei,2164024915.0,17.0,2.0
-678,sebastian lauro,2312096208.0,17.0,2.0
-679,elena pettinelli,2134259626.0,17.0,2.0
-680,jenny hallstrom,2144445565.0,15.0,1.0
-681,kerstin barup,1293095884.0,15.0,1.0
-682,rasmus gronlund,2226942039.0,15.0,1.0
-683,ann johansson,2301177141.0,15.0,1.0
-684,sune svanberg,1988922197.0,15.0,1.0
-685,lorenzo palombi,2046692187.0,15.0,1.0
-686,david lognoli,2082836310.0,15.0,1.0
-687,valentina raimondi,2087678774.0,71.0,2.0
-688,giovanna cecchi,2093374627.0,71.0,2.0
-689,cinzia conti,2706246750.0,15.0,1.0
-690,peter tianyuan shih,2618056586.0,13.0,1.0
-691,yahsing chen,2610003017.0,13.0,1.0
-692,jiechung chen,2133269388.0,13.0,1.0
-693,koen meuleman,2011002973.0,11.0,1.0
-694,norbert pfeifer,2294009452.0,10.0,1.0
-695,hohe warte,2614987275.0,10.0,1.0
-696,hiroyuki kamei,2053300735.0,11.0,1.0
-697,magdy ahmed atya,2634050108.0,11.0,1.0
-698,tareq fahmy abdallatif,2024375324.0,11.0,1.0
-699,masato mori,2426923688.0,11.0,1.0
-700,pasomphone hemthavy,1577893859.0,11.0,1.0
-701,martin seeliger,2690381875.0,19.0,1.0
-702,melanie bartz,1964161871.0,19.0,1.0
-703,ercan erkul,2150204603.0,19.0,1.0
-704,stefan feuser,1973152643.0,19.0,1.0
-705,daniel kelterbaum,49589419.0,19.0,1.0
-706,christina klein,2164201793.0,19.0,1.0
-707,felix pirson,2233564742.0,19.0,1.0
-708,andreas vott,2271540644.0,19.0,1.0
-709,helmut bruckner,2124453595.0,19.0,1.0
-710,a stampolidis,2506582038.0,26.0,2.0
-711,grigorios tsokas,2442140551.0,18.0,1.0
-712,gabriele bitelli,1974174592.0,17.0,1.0
-713,valentina alena girelli,2009232757.0,17.0,1.0
-714,nicholas kouchoukos,2650095023.0,29.0,1.0
-715,m t carrozzo,2649306499.0,20.0,1.0
-716,lisa dojack,2284696897.0,6.0,1.0
-717,boleslo e romero,2322387078.0,10.0,1.0
-718,tamara l bray,2127388498.0,10.0,1.0
-719,david c cowley,2664729062.0,12.0,1.0
-720,martin pfennigbauer,1984630923.0,10.0,1.0
-721,andreas ullrich,2302897515.0,10.0,1.0
-722,anthony lauricella,2686452938.0,7.0,1.0
-723,joshua cannon,2754730254.0,7.0,1.0
-724,scott branting,2704284662.0,7.0,1.0
-725,emily hammer,2558511706.0,7.0,1.0
-726,thomas j pingel,2779316201.0,7.0,1.0
-727,keith c clarke,2172250303.0,7.0,1.0
-728,anabel ford,2321084894.0,7.0,1.0
-729,david b landry,2023448923.0,7.0,1.0
-730,ian j ferguson,2096874881.0,7.0,1.0
-731,s brooke milne,2007240275.0,7.0,1.0
-732,robert w park,2122736535.0,7.0,1.0
-733,erica utsi,2046487927.0,10.0,1.0
-734,dwight f coleman,2124581530.0,16.0,1.0
-735,james b newman,2429501991.0,16.0,1.0
-736,robert d ballard,2137295604.0,16.0,1.0
-737,francesc cecilia conesa,1992657615.0,9.0,1.0
-738,marco madella,2127322216.0,9.0,1.0
-739,andrea l balbo,2061637240.0,9.0,1.0
-740,s v rajesh,2480807005.0,9.0,1.0
-741,p ajithprasad,386977350.0,9.0,1.0
-742,a endre nyerges,2066575932.0,32.0,1.0
-743,glen m green,2117770660.0,32.0,1.0
-744,ronald g blom,2099550923.0,14.0,2.0
-745,douglas c comer,1965876590.0,8.0,1.0
-746,w de clercq,2129685005.0,10.0,1.0
-747,p de smedt,2019385222.0,10.0,1.0
-748,j de reu,2122117783.0,10.0,1.0
-749,davy herremans,1989001936.0,10.0,1.0
-750,m van meirvenne,1958905759.0,10.0,1.0
-751,munzer jahjah,2034022524.0,27.0,2.0
-752,carlo ulivieri,2145632385.0,27.0,2.0
-753,michele pipan,2429882779.0,24.0,1.0
-754,l baradello,2684354287.0,24.0,1.0
-755,emanuele forte,2172112119.0,24.0,1.0
-756,i finetti,2256625874.0,24.0,1.0
-757,martin j f fowler,2086781045.0,22.0,1.0
-758,bruce w bevan,2420203940.0,14.0,1.0
-759,dan lynch,2309316414.0,14.0,1.0
-760,steven l de vore,2602521429.0,14.0,1.0
-761,steve adamek,2117527102.0,14.0,1.0
-762,travis martin,2627658797.0,14.0,1.0
-763,george r holley,2117259751.0,14.0,1.0
-764,michael g michlovic,2338445987.0,14.0,1.0
-765,g scardozzi,2711919895.0,9.0,1.0
-766,tito scalo,2718585804.0,9.0,1.0
-767,t schuler,2139106363.0,12.0,1.0
-768,n bondarenko,2441626105.0,12.0,1.0
-769,h g meyer,2422365190.0,12.0,1.0
-770,dean goodman,2650470700.0,20.0,2.0
-771,doria kutrubes,2663442112.0,10.0,1.0
-772,henrique lorenzo,2798508891.0,18.0,2.0
-773,james bonsall,2021166513.0,12.0,1.0
-774,rob fry,2127947565.0,12.0,1.0
-775,ian armit,68388792.0,12.0,1.0
-776,luca pantani,1903590323.0,56.0,1.0
-777,luisa tomaselli,2153822757.0,56.0,1.0
-778,gioia lamenti,1150244051.0,56.0,1.0
-779,piero tiano,2210918654.0,56.0,1.0
-780,roberto chiari,1987233562.0,56.0,1.0
-781,edward r henry,2598956861.0,14.0,1.0
-782,s piro,2706528108.0,66.0,2.0
-783,paolo mauriello,1996378006.0,66.0,2.0
-784,fabio cammarano,1656840180.0,66.0,2.0
-785,benedetto figorito,2304269144.0,26.0,2.0
-786,eufemia tarantino,2148977935.0,26.0,2.0
-787,brian bingham,1984016579.0,22.0,2.0
-788,timothy k perttula,92902669.0,13.0,1.0
-789,chester p walker,2165852064.0,13.0,1.0
-790,t clay schultz,2126264140.0,13.0,1.0
-791,d g hadjimitsis,2735145029.0,13.0,1.0
-792,k themistocleous,2734641129.0,13.0,1.0
-793,a agapiou,2736241830.0,13.0,1.0
-794,c r i clayton,2128403331.0,13.0,1.0
-795,jason t herrmann,2138427236.0,15.0,1.0
-796,aaron s fogel,2141668186.0,15.0,1.0
-797,david simpson,2102230708.0,13.0,1.0
-798,alexander lehouck,2238069331.0,26.0,2.0
-799,erik thoen,2603518603.0,13.0,1.0
-800,j vervloet,450796590.0,13.0,1.0
-801,eileen g ernenwein,1226780862.0,33.0,2.0
-802,christine markussen,2094366038.0,21.0,1.0
-803,gary priestnall,279175341.0,59.0,1.0
-804,adam gardner,2142015761.0,59.0,1.0
-805,julian henderson,2320744171.0,59.0,1.0
-806,sarah l ohara,2127506177.0,59.0,1.0
-807,m dabas,2807362270.0,10.0,1.0
-808,l marasco,1994827996.0,10.0,1.0
-809,s piro,2750614163.0,10.0,1.0
-810,d zamuner,2686676132.0,10.0,1.0
-811,antonio pecci,2560749717.0,6.0,1.0
-812,felice perciante,2222374910.0,6.0,1.0
-813,denise pozzi escot,2560046138.0,6.0,1.0
-814,manuela scavone,2560026677.0,6.0,1.0
-815,antonio invernizzi,2495477823.0,13.0,1.0
-816,roberto parapetti,2684670826.0,13.0,1.0
-817,sallie vaughn,2752082660.0,21.0,1.0
-818,thomas w crawford,2099192326.0,21.0,1.0
-819,gabriele fangi,318577627.0,11.0,1.0
-820,roberto gabrielli,2635248078.0,32.0,3.0
-821,roberto orazi,2238302055.0,11.0,1.0
-822,andrea angelini,2661763208.0,11.0,1.0
-823,carlo alberto bozzi,2649109852.0,11.0,1.0
-824,david stott,2315665737.0,9.0,1.0
-825,doreen s boyd,2160112189.0,9.0,1.0
-826,anthony g cohn,2149556533.0,9.0,1.0
-827,lieven verdonck,2405619446.0,6.0,1.0
-828,devi taelman,1971194197.0,6.0,1.0
-829,james schindling,2507254882.0,9.0,1.0
-830,cerian gibbes,2031578206.0,9.0,1.0
-831,michael griffin,2096691495.0,27.0,1.0
-832,ayse gulcin kucukkaya,2552061552.0,16.0,1.0
-833,nicolas poirier,2102506906.0,11.0,1.0
-834,florent hautefeuille,1983129072.0,11.0,1.0
-835,carine calastrenc,994671570.0,11.0,1.0
-836,salvatore piro,2703540400.0,11.0,1.0
-837,mark grasmueck,2556912297.0,8.0,1.0
-838,dave a viggiano,2551169975.0,8.0,1.0
-839,t saunders,2238354957.0,13.0,1.0
-840,j adcock,2130587243.0,13.0,1.0
-841,william h marquardt,2618961478.0,10.0,1.0
-842,karen j walker,2156865643.0,10.0,1.0
-843,seth quintus,2778404904.0,8.0,1.0
-844,jeffrey t clark,2619252977.0,8.0,1.0
-845,stephanie s day,2613799645.0,8.0,1.0
-846,donald p schwert,2079878494.0,8.0,1.0
-847,ulrich kamp,1859524246.0,11.0,1.0
-848,kevin gregory mcmanigal,2057878238.0,11.0,1.0
-849,avirmed dashtseren,2085448860.0,11.0,1.0
-850,michael walther,2893116646.0,11.0,1.0
-851,albert hesse,2575541492.0,20.0,1.0
-852,jeanne tabbagh,2550266427.0,20.0,1.0
-853,m de la vega,2162891848.0,9.0,1.0
-854,ana osella,2241665427.0,9.0,1.0
-855,e lascano,2425120783.0,9.0,1.0
-856,jose m carcione,2642836476.0,9.0,1.0
-857,katrijn dirix,1535513966.0,7.0,1.0
-858,philippe muchez,1973026617.0,7.0,1.0
-859,patrick degryse,2650262079.0,7.0,1.0
-860,branko music,2429987054.0,7.0,1.0
-861,jeroen poblome,2786927370.0,7.0,1.0
-862,d mavromati,1972908333.0,8.0,1.0
-863,e petsa,2442965923.0,8.0,1.0
-864,g karras,2462085443.0,8.0,1.0
-865,hui zhou,2427972608.0,8.0,1.0
-866,andy creekmore,2521543117.0,12.0,1.0
-867,julien thiesson,2747303078.0,6.0,1.0
-868,gabrielle rousselle,2031486362.0,6.0,1.0
-869,francois xavier simon,2306039719.0,6.0,1.0
-870,alain tabbagh,152426863.0,6.0,1.0
-871,m harrower,2156081638.0,18.0,1.0
-872,joy mccorriston,2025801155.0,18.0,1.0
-873,eric a oches,2078453418.0,18.0,1.0
-874,margret c fuchs,2108359744.0,24.0,2.0
-875,sebastian kreutzer,2101437981.0,12.0,1.0
-876,christoph burow,1414860512.0,12.0,1.0
-877,michael dietze,2229576275.0,12.0,1.0
-878,manfred fischer,2160555418.0,12.0,1.0
-879,christoph schmidt,2222362852.0,12.0,1.0
-880,markus fuchs,1991308361.0,12.0,1.0
-881,julien thiesson,2345799392.0,14.0,1.0
-882,sebastien flageul,2690758708.0,14.0,1.0
-883,franciscojavier mesascarrascosa,2210935584.0,8.0,1.0
-884,maria dolores notario garcia,2547947506.0,8.0,1.0
-885,jose emilio merono de larriva,2669609683.0,8.0,1.0
-886,alfonso garciaferrer,2089364264.0,8.0,1.0
-887,antonio jimenez,2146338444.0,6.0,1.0
-888,jose carlos prieto,2299772275.0,6.0,1.0
-889,joao l ealo,1811900722.0,12.0,2.0
-890,jorge guevara,2109763103.0,6.0,1.0
-891,fernando seco,63557894.0,6.0,1.0
-892,dirk h r spennemann,2017542781.0,21.0,1.0
-893,pietro alessandro brivio,138879665.0,22.0,1.0
-894,monica pepe,2624394947.0,22.0,1.0
-895,roberto tomasoni,1978248346.0,22.0,1.0
-896,devin white,2152539063.0,16.0,2.0
-897,jera r davis,2320883431.0,7.0,1.0
-898,chester walker,2619580092.0,7.0,1.0
-899,john h blitz,2325041621.0,7.0,1.0
-900,g colin stove,2494321317.0,20.0,1.0
-901,p v addyman,2659454969.0,20.0,1.0
-902,walter edwards,2096017775.0,13.0,1.0
-903,masaaki okita,2111602795.0,13.0,1.0
-904,giuseppe ceraudo,2755682180.0,8.0,1.0
-905,d zamuner,2646293644.0,8.0,1.0
-906,s piro,2572266508.0,10.0,1.0
-907,d peloso,2628838989.0,10.0,1.0
-908,t f abdallatif,2004937277.0,10.0,1.0
-909,s e mousa,2477588283.0,10.0,1.0
-910,a elbassiony,1215251274.0,10.0,1.0
-911,burkart ullrich,2109459611.0,7.0,1.0
-912,georg kaufmann,2156867527.0,7.0,1.0
-913,rudolf kniess,1645335128.0,7.0,1.0
-914,henning zoellner,2006865411.0,7.0,1.0
-915,michael meyer,2475563068.0,7.0,1.0
-916,lilli keller,2463564081.0,7.0,1.0
-917,h odah,2470167007.0,9.0,1.0
-918,t f abdallatif,2681834516.0,9.0,1.0
-919,i a elhemaly,2596196892.0,9.0,1.0
-920,e abd elall,2087679524.0,9.0,1.0
-921,matthew meredithwilliams,2345334127.0,12.0,1.0
-922,niklas hausmann,2622958390.0,12.0,1.0
-923,geoffrey n bailey,2120037947.0,12.0,1.0
-924,g c p king,2894331191.0,12.0,1.0
-925,abdullah alsharekh,2345007489.0,12.0,1.0
-926,s al ghamdi,2635633529.0,12.0,1.0
-927,robyn helen inglis,2582351741.0,12.0,1.0
-928,arianna traviglia,2892424799.0,8.0,1.0
-929,andrea torsello,2044774160.0,8.0,1.0
-930,massimo sciotti,2084582921.0,12.0,1.0
-931,fabiola colone,2018287118.0,12.0,1.0
-932,debora pastina,2144855372.0,12.0,1.0
-933,t bucciarelli,2427592505.0,12.0,1.0
-934,hector a orengo,1999271583.0,6.0,1.0
-935,ioana a oltean,2894383519.0,7.0,1.0
-936,arnaud meline,2433391155.0,7.0,1.0
-937,jean triboulet,2047177467.0,7.0,1.0
-938,bruno jouvencel,2688013967.0,7.0,1.0
-939,gilles bossuet,1998562999.0,6.0,1.0
-940,matthieu thivet,1237190333.0,6.0,1.0
-941,sylvain trillaud,1990620683.0,6.0,1.0
-942,eric marmet,2303458034.0,6.0,1.0
-943,clement laplaige,1219498374.0,6.0,1.0
-944,g hullin,369757409.0,6.0,1.0
-945,a favard,2805792737.0,6.0,1.0
-946,l combe,2686412011.0,6.0,1.0
-947,e barres,2698331026.0,6.0,1.0
-948,s lacaze,2648934647.0,6.0,1.0
-949,laurent aubry,2608669079.0,6.0,1.0
-950,m chassang,2593770401.0,6.0,1.0
-951,a mourot,2654845315.0,6.0,1.0
-952,christian camerlynck,1256865192.0,6.0,1.0
-953,tuna kalayci,2723651877.0,12.0,1.0
-954,c britt bousman,2059785729.0,6.0,1.0
-955,heather richardsrissetto,2757540693.0,6.0,1.0
-956,igor zingman,193640279.0,8.0,1.0
-957,armin schmidt,2252597813.0,13.0,1.0
-958,hassan fazeli,2214591733.0,13.0,1.0
-959,koreen millard,2628636807.0,15.0,1.0
-960,charles burke,2556594557.0,15.0,1.0
-961,douglas stiff,2137286137.0,15.0,1.0
-962,anna m redden,2099489372.0,15.0,1.0
-963,evaristo ricchetti,2064578527.0,8.0,1.0
-964,s cheyney,2008937374.0,9.0,1.0
-965,ian a hill,2612910638.0,9.0,1.0
-966,glenn c conroy,1139615552.0,8.0,1.0
-967,kevin o pope,2717956395.0,124.0,1.0
-968,bruce h dahlin,2642358346.0,124.0,1.0
-969,juan ortiz,2491991773.0,6.0,1.0
-970,m gil,2138674915.0,6.0,1.0
-971,santiago martinez,2596913217.0,6.0,1.0
-972,teresa rego,2087552566.0,6.0,1.0
-973,gonzalo meijide,2128305203.0,6.0,1.0
-974,g n tsokas,1784202376.0,66.0,5.0
-975,r o hansen,2558486775.0,23.0,2.0
-976,rebecca bennett,2713894437.0,8.0,1.0
-977,pedro arias,2129105287.0,8.0,1.0
-978,jamie k pringle,2114834168.0,9.0,1.0
-979,matteo giubertoni,1996052790.0,18.0,2.0
-980,nigel j cassidy,1966540491.0,9.0,1.0
-981,kristopher d wisniewski,2233299030.0,9.0,1.0
-982,j d hansen,2464375007.0,9.0,1.0
-983,rebecca m daniels,2695758569.0,9.0,1.0
-984,angel munoznieto,2170161141.0,9.0,1.0
-985,julia armesto,2143217907.0,9.0,1.0
-986,christian m milea,2038406380.0,6.0,1.0
-987,c b papazachos,2273027011.0,27.0,2.0
-988,p tsourlos,1982013178.0,35.0,3.0
-989,i mertzanidis,402519633.0,8.0,1.0
-990,r hamza,2682321246.0,8.0,1.0
-991,c chrisafis,2258948706.0,8.0,1.0
-992,d ambonis,400062024.0,8.0,1.0
-993,i tavlakis,430297177.0,8.0,1.0
-994,ken hamilton,2096526074.0,7.0,1.0
-995,i shennan,2697863097.0,17.0,1.0
-996,d n m donoghue,2574283405.0,17.0,1.0
-997,derrold w holcomb,2147678711.0,91.0,2.0
-998,rory mcneary,2577033186.0,6.0,1.0
-999,m pappa,2702889199.0,21.0,1.0
-1000,m bessios,2304392396.0,21.0,1.0
-1001,antonios giannopoulos,1969302706.0,21.0,1.0
-1002,alicia m gonzalez,2288573020.0,6.0,1.0
-1003,dan thompson,2417939006.0,6.0,1.0
-1004,steve elkins,2661411760.0,6.0,1.0
-1005,awni batayneh,2074866530.0,9.0,1.0
-1006,richard e w adams,2607529993.0,117.0,1.0
-1007,walter e brown,2692004389.0,117.0,1.0
-1008,t patrick culbert,2322889389.0,117.0,1.0
-1009,a savvaidis,2639588897.0,14.0,1.0
-1010,y liritzis,2655084164.0,14.0,1.0
-1011,m apostolou,2667761249.0,14.0,1.0
-1012,gregory mumford,2464503392.0,7.0,1.0
-1013,sarah parcak,2515199597.0,7.0,1.0
-1014,maria cristina salvi,2687760907.0,6.0,1.0
-1015,riccardo salvini,2252096632.0,6.0,1.0
-1016,alice cartocci,2887557705.0,6.0,1.0
-1017,simone kozciak,2752989297.0,6.0,1.0
-1018,rosalia gallotti,2776964637.0,6.0,1.0
-1019,marcello piperno,2749516295.0,6.0,1.0
-1020,d c cowley,2592204599.0,12.0,1.0
-1021,john mckim malville,2162121609.0,11.0,1.0
-1022,lalit m gujral,1815116540.0,11.0,1.0
-1023,garry momber,1963679340.0,10.0,1.0
-1024,mathew geen,2627807981.0,10.0,1.0
-1025,r castaldo,2893301819.0,6.0,1.0
-1026,lorenzo crocco,2054900548.0,6.0,1.0
-1027,m fedi,2898593646.0,6.0,1.0
-1028,b garofalo,2687508548.0,6.0,1.0
-1029,a rossi,2577553070.0,6.0,1.0
-1030,nicolas regnauld,2665950529.0,7.0,1.0
-1031,william mackaness,418770675.0,7.0,1.0
-1032,glen hart,2152954659.0,7.0,1.0
-1033,martin j f fowler,2712535262.0,21.0,1.0
-1034,m j lawrence,2723225355.0,10.0,1.0
-1035,c r bates,2700626901.0,10.0,1.0
-1036,alison s lathrop,2684573388.0,6.0,1.0
-1037,ballard e ebbett,2484618675.0,6.0,1.0
-1038,j m maillol,2664884417.0,7.0,1.0
-1039,d l ciobotaru,2576639153.0,7.0,1.0
-1040,i moravetz,1898237342.0,7.0,1.0
-1041,sofia theodoridou,2218484508.0,6.0,1.0
-1042,kostas tokmakidis,2181705493.0,6.0,1.0
-1043,dimitris scarlatos,2182017840.0,6.0,1.0
-1044,e podest,2224924575.0,6.0,1.0
-1045,robert murowchick,2693572855.0,6.0,1.0
-1046,danny donohoe,2319041849.0,9.0,1.0
-1047,maurizio forte,2424575265.0,7.0,1.0
-1048,y nishimura,2637035535.0,8.0,1.0
-1049,t uno,2207967247.0,8.0,1.0
-1050,t yamamoto,2375968395.0,8.0,1.0
-1051,william j folan,71795095.0,22.0,1.0
-1052,joyce marcus,2127118708.0,22.0,1.0
-1053,w frank miller,2141008232.0,22.0,1.0
-1054,antonio m montufo,2220115143.0,15.0,1.0
-1055,jeffrey c wynn,2235322343.0,30.0,1.0
-1056,gavin c cawley,738756060.0,7.0,1.0
-1057,p neil chroston,1443903179.0,7.0,1.0
-1058,denisse argoteespino,2047003610.0,7.0,1.0
-1059,rene e chavez,2107751175.0,7.0,1.0
-1060,peter l steere,2522859347.0,21.0,1.0
-1061,payson sheets,1790116258.0,21.0,1.0
-1062,brian r mckee,2126438951.0,21.0,1.0
-1063,david gilman romano,2385896151.0,8.0,1.0
-1064,e luck,2642611152.0,10.0,1.0
-1065,m eisenreich,2721881854.0,10.0,1.0
-1066,john cloud,2644506547.0,16.0,1.0
-1067,tomasz herbich,1047917680.0,7.0,1.0
-1068,krzysztof misiewicz,2695956281.0,7.0,1.0
-1069,otto teschauer,2294168248.0,7.0,1.0
-1070,chris cox,2723667071.0,23.0,1.0
-1071,r walker,2571741110.0,6.0,1.0
-1072,e wood,2642144270.0,6.0,1.0
-1073,d f coleman,2712415475.0,7.0,1.0
-1074,r d ballard,2805834578.0,7.0,1.0
-1075,t gregory,2279891539.0,7.0,1.0
-1076,douglas j sherman,2126844686.0,20.0,1.0
-1077,robert a van zuidam,2701359738.0,20.0,1.0
-1078,thomas l carr,2309098916.0,8.0,1.0
-1079,mort d turner,2432640485.0,8.0,1.0
-1080,g s maxwell,2132984136.0,15.0,1.0
-1081,bimal ghose,2570816821.0,59.0,1.0
-1082,amal kar,2590818186.0,59.0,1.0
-1083,zahid husain,2680790223.0,59.0,1.0
-1084,robert sablatnig,209192686.0,8.0,1.0
-1085,christian menard,2715847837.0,8.0,1.0
-1086,barbara luke,2612434574.0,6.0,1.0
-1087,james e brady,2502038880.0,6.0,1.0
-1088,carl j clausen,2119676438.0,8.0,1.0
-1089,j barto arnold,2246046381.0,8.0,1.0
-1090,pamela sands showalter,2640728408.0,10.0,1.0
-1091,eyal bendor,2118942296.0,6.0,1.0
-1092,juval portugali,1216790474.0,6.0,1.0
-1093,moshe kochavi,2689588853.0,6.0,1.0
-1094,michal shimoni,2527401623.0,6.0,1.0
-1095,lipaz vinitzky,2664298756.0,6.0,1.0
-1096,m l manchanda,2712904871.0,9.0,1.0
-1097,h s iyer,2690295066.0,9.0,1.0
-1098,j e dorsett,2587174527.0,16.0,1.0
-1099,d d gilbertson,2158149303.0,16.0,1.0
-1100,c o hunt,2302458600.0,16.0,1.0
-1101,g w w barker,2618698492.0,16.0,1.0
-1102,james i ebert,2117167329.0,19.0,1.0
-1103,david lashlee,2522377515.0,6.0,1.0
-1104,frederick l briuer,1489056481.0,6.0,1.0
-1105,william l murphy,2483915848.0,6.0,1.0
-1106,eric v mcdonald,2647362353.0,6.0,1.0
-1107,david grossman,2135178749.0,8.0,1.0
-1108,zeev safrai,2632812522.0,8.0,1.0
-1109,kenneth l kvamme,2267078300.0,68.0,1.0
-1110,jeffrey cody,2686876910.0,11.0,1.0
-1111,david buisseret,2658343922.0,11.0,1.0
-1112,george j gumerman,1570928961.0,22.0,1.0
-1113,thomas r lyons,2568119777.0,32.0,2.0
-1114,thomas e avery,2015395025.0,10.0,1.0
-1115,rog palmer,2428156265.0,6.0,1.0
-1116,p h beckett,2710372766.0,9.0,1.0
-1117,c forster,2603552259.0,11.0,1.0
-1118,henry maguire,2616924659.0,9.0,1.0
-1119,angela fussell,2522459604.0,8.0,1.0
-1120,s evans,2777960096.0,7.0,1.0
-1121,irwin scollar,2700433368.0,8.0,1.0
-1122,kirk h stone,2673187574.0,6.0,1.0
-1123,athelstan f spilhaus,2487459096.0,19.0,1.0
+0,geert verhoeven,2169669433,883,19
+1,haida liang,2094774220,147,1
+2,michael doneus,2077736714,608,17
+3,martin fera,2127616844,253,2
+4,christian briese,1834339306,477,11
+5,matthias kucera,2195221789,98,1
+6,wolfgang neubauer,2106824575,322,7
+7,martin janner,2550453853,155,1
+8,frank vermeulen,2112772285,178,4
+9,sharaf alkheder,2892748081,110,1
+10,yahya alshawabkeh,2021673803,110,1
+11,norbert haala,101171190,110,1
+12,dean goodman,2121269922,380,11
+13,salvatore piro,2197783474,220,6
+14,jurg leckebusch,2071346827,161,4
+15,chris gaffney,2150497552,122,5
+16,vince gaffney,2085043130,150,5
+17,eamonn baldwin,2178446697,51,1
+18,henry chapman,2159883538,51,1
+19,paul garwood,1317878389,51,1
+20,helen moulden,2052709406,51,1
+21,tom sparrow,2151428394,51,1
+22,richard bates,2292027454,51,1
+23,klaus locker,2107836043,51,1
+24,alois hinterleitner,2433864649,111,2
+25,immo trinks,2223747502,111,2
+26,erich nau,1919392508,51,1
+27,thomas zitz,1192561553,51,1
+28,sebastian floery,1965404890,51,1
+29,sarah parcak,2469453486,68,3
+30,david gathings,2032577763,22,1
+31,chase childs,2286580088,22,1
+32,greg mumford,2225881755,22,1
+33,eric h cline,2101448327,22,1
+34,arlen f chase,2168778769,128,3
+35,diane z chase,2077539664,128,3
+36,christopher t fisher,2111404777,105,3
+37,stephen j leisz,2495952034,109,4
+38,john f weishampel,2091044228,124,2
+39,sarah h parcak,253771894,119,1
+40,ralf hesse,2652057278,94,1
+41,b j devereux,2692190370,189,2
+42,g s amable,2709006732,189,2
+43,p crow,2702723102,189,2
+44,a d cliff,2697450189,102,1
+45,neil linford,1972671123,149,5
+46,paul linford,1985797339,90,2
+47,louise martin,2230518824,50,1
+48,andy payne,2171453219,50,1
+49,fulvio rinaudo,687459025,42,1
+50,filiberto chiabrando,2122991678,80,2
+51,andrea maria lingua,1924943578,42,1
+52,antonia teresa spano,2040988091,42,1
+53,bernth johansson,2156812960,60,1
+54,jaana gustafsson,2118105792,60,1
+55,jesper emilsson,2012208279,60,1
+56,johan gustaf friborg,2646209300,60,1
+57,christer gustafsson,2143261198,60,1
+58,johan nissen,2419516668,60,1
+59,ziga kokalj,1988930059,68,1
+60,klemen zaksek,229551928,68,1
+61,kristof ostir,2151859425,124,2
+62,lawrence b conyers,1392871264,169,6
+63,alois ederhinterleitner,1765929309,100,2
+64,sirri seren,2307196916,92,1
+65,peter melichar,1984613836,92,1
+66,martin sauerbier,2105245141,103,3
+67,henri eisenbeiss,2087314693,103,3
+68,rosa lasaponara,233151887,828,33
+69,nicola masini,146908812,832,33
+70,alfredo maximiano castillejo,2312988251,29,1
+71,jesse casana,2133247355,134,6
+72,john kantner,2717858826,36,1
+73,adam wiewel,2323350189,36,1
+74,jackson cothren,2154240125,108,4
+75,jo loenders,2213385597,34,1
+76,roald docter,2122438261,45,3
+77,yasushi nishimura,2277217696,254,5
+78,deodato tapete,2051837759,223,9
+79,riccardo fanti,1977200140,101,2
+80,r cecchi,2577607131,56,1
+81,p petrangeli,1269756282,56,1
+82,nicola casagli,2094403090,101,2
+83,fulong chen,2122728365,80,5
+84,ruixia yang,2615125436,37,3
+85,pietro milillo,2078479346,24,1
+86,dexian feng,2505691432,24,1
+87,karsten lambers,1914535798,87,5
+88,zhang li,2310846884,44,1
+89,h bendea,2890138308,38,1
+90,f giulio tonolo,2653001404,38,1
+91,davide marenchino,1910570245,38,1
+92,rebecca bennett,2123181868,69,3
+93,kate welham,2289213271,87,5
+94,ross a hill,2468020076,69,3
+95,andrew l j ford,2310706129,73,4
+96,j d rogers,2717473455,103,1
+97,dimitrios alexakis,2830088056,55,1
+98,apostolos sarris,2139383741,288,14
+99,theodoros astaras,2894079658,55,1
+100,konstantinos albanakis,2072162632,55,1
+101,james wiseman,2142452866,76,1
+102,farouk elbaz,1045709392,89,2
+103,k themistocleous,672579825,41,4
+104,athos agapiou,2102797581,376,22
+105,branka cuca,958544279,15,1
+106,diofantos g hadjimitsis,1987843543,340,19
+107,juerg leckebusch,2608473440,50,1
+108,guido luzi,2039670884,45,1
+109,giovanni gigli,2134806551,45,1
+110,davide leva,2127224109,45,1
+111,chris roman,2145019425,48,1
+112,gabrielle inglis,2170294176,48,1
+113,james rutter,2489372338,48,1
+114,a p annan,2678571744,119,1
+115,benjamin stular,2656196460,56,1
+116,iga kokalj,2307227852,56,1
+117,laure nuninger,2047611814,60,2
+118,adam d booth,2423311355,87,3
+119,roger a clark,2467812216,47,2
+120,tavi murray,2102468776,47,2
+121,v de laet,2169294177,110,3
+122,etienne paulissen,1907811893,110,3
+123,marc waelkens,1481642178,113,4
+124,adrian myers,2142395980,38,1
+125,francesca cigna,1139602135,84,4
+126,daniel n m donoghue,2109518512,133,5
+127,kenneth l kvamme,2600466324,205,8
+128,aled rowlands,2096352476,85,1
+129,jon c henderson,2330015038,49,2
+130,oscar pizarro,2017108474,49,2
+131,matthew johnsonroberson,2033490064,49,2
+132,ian mahon,2076742173,36,1
+133,a t mozascalvache,2625022871,31,1
+134,jose luis perezgarcia,2207373149,31,1
+135,f j cardenalescarcena,2325228963,31,1
+136,e matacastro,2315661309,31,1
+137,j delgadogarcia,2625888111,31,1
+138,enzo rizzo,2299022984,50,3
+139,giuseppe orefici,1307530945,69,3
+140,jesse casana,2708339811,25,1
+141,mitra panahipour,2413682747,25,1
+142,rudi goossens,2097165080,79,2
+143,alain de wulf,2027984156,79,2
+144,jean bourgeois,2267678628,117,6
+145,wouter gheyle,1458861332,88,3
+146,tom willems,2893750063,79,2
+147,stefano campana,2892620085,42,3
+148,kyriacos themistocleous,2024531300,6,2
+149,keith m prufer,667224886,39,1
+150,amy e thompson,2288923208,39,1
+151,douglas j kennett,2684801672,39,1
+152,claudio aporta,2678258285,91,1
+153,eric higgs,2654464210,91,1
+154,david hakken,2694088308,91,1
+155,lisa palmer,2475820454,91,1
+156,mark h palmer,2102680088,91,1
+157,robert rundstrom,2340907120,91,1
+158,bryan pfaffenberger,2711813333,91,1
+159,george w wenzel,2718442709,91,1
+160,thomas widlok,2811327513,91,1
+161,anthony beck,2122419906,101,6
+162,graham philip,2141896634,75,3
+163,maamoun abdulkarim,2076396712,67,1
+164,armin grun,2603818810,29,1
+165,fabio remondino,5114806,57,3
+166,li zhang,2635977953,29,1
+167,jesus fernandezhernandez,2632198184,41,1
+168,diego gonzalezaguilera,2041873084,55,3
+169,pablo rodriguezgonzalvez,916236146,50,2
+170,juan mancerataboada,2179086799,50,2
+171,motoyuki sato,2107078328,35,4
+172,clement atzberger,1679575905,45,2
+173,michael wess,1983554343,45,2
+174,michal rus,2304831108,32,1
+175,mark altaweel,1978271887,74,1
+176,mitch bryson,2127442694,13,1
+177,ariell friedman,2209974912,13,1
+178,giancarlo troni,676969794,13,1
+179,paul ozog,229212510,13,1
+180,keith challis,2076522883,183,6
+181,paolo forlin,1969652887,38,1
+182,mark kincey,1094293128,79,3
+183,roland linck,2039579559,60,4
+184,thomas busche,2095415012,26,1
+185,stefan buckreuss,2081226198,26,1
+186,jorg w e fassbinder,705882724,60,4
+187,sirri seren,2807365348,26,1
+188,oivind due trier,1783373794,72,2
+189,siri oyen larsen,2165019760,50,1
+190,rune solberg,2170296248,50,1
+191,p sapirstein,2584050089,27,1
+192,ole gron,2701104035,18,1
+193,susanna palmer,2550883242,18,1
+194,fransarne stylegar,2639201231,18,1
+195,kim h esbensen,41247394,18,1
+196,sergey kucheryavski,2527336977,18,1
+197,sigurd aase,2102228346,18,1
+198,eloi gattet,2436602574,8,1
+199,j devogelaere,1263003283,8,1
+200,romain raffin,2581367938,8,1
+201,laurent bergerot,1820883957,8,1
+202,marc daniel,2799102197,8,1
+203,ph jockey,2899200117,8,1
+204,l de luca,2251128550,8,1
+205,dimitrios d alexakis,1993120014,261,13
+206,s gonizzi barsanti,2333830548,14,1
+207,d visintini,2678974096,14,1
+208,marco j giardino,2648680260,44,1
+209,nikos papadopoulos,2320419332,30,1
+210,maria cristina salvi,2017240795,30,1
+211,william a parkinson,2621698461,30,1
+212,richard w yerkes,2074989338,30,1
+213,attila gyucha,300104971,30,1
+214,paul r duffy,2113314754,30,1
+215,danilo gallo,2145746520,88,3
+216,marcello ciminale,1965874878,112,5
+217,helmut becker,2509657949,55,2
+218,victor d thompson,2132998548,38,2
+219,philip j arnold,2100035487,28,1
+220,thomas j pluckhahn,2689218802,28,1
+221,amber m vanderwarker,683208859,28,1
+222,thomas g garrison,2309836674,60,2
+223,stephen d houston,2579247553,60,2
+224,charles golden,2158017241,53,2
+225,takeshi inomata,2132977932,46,1
+226,zachary nelson,2063280807,46,1
+227,jessica munson,2106217231,46,1
+228,nives doneus,1359921447,42,2
+229,michael pregesbauer,2003373277,42,2
+230,gottfried mandlburger,2000938873,42,2
+231,jens wunderlich,2136254914,25,1
+232,gert wendt,2660713442,25,1
+233,sabine muller,2433808106,25,1
+234,simon keay,2116890535,88,3
+235,graeme earl,2117665592,35,1
+236,sophie hay,2112930218,35,1
+237,stephen kay,2167032031,35,1
+238,jessica ogden,2778894466,35,1
+239,kristian strutt,1979260581,53,2
+240,m lo brutto,1973977791,19,1
+241,a borruso,2687675924,19,1
+242,a dargenio,2706403063,19,1
+243,julie m gallagher,2636756810,38,1
+244,richard l josephs,2039681322,38,1
+245,helmut becker,2907052646,50,1
+246,dominic powlesland,1301761586,35,2
+247,james lyall,2460269298,35,2
+248,guy hopkinson,2159822661,26,1
+249,maria beck,2688805940,26,1
+250,aidan harte,2616079886,26,1
+251,david stott,2575879891,26,1
+252,christoph siart,1969293336,61,2
+253,bernhard eitel,2035329611,61,2
+254,diamantis panagiotopoulos,2253124495,56,1
+255,apostolos sarris,2800877418,34,1
+256,a georgopoulos,2136041560,49,3
+257,christopher stewart,2144575447,35,2
+258,giovanni schiavon,2683429092,35,2
+259,david j prior,2095830836,69,1
+260,elisabetta mariani,2239943279,69,1
+261,john wheeler,2112284519,69,1
+262,giovanni leucci,2034046983,150,6
+263,ole risbol,2430289346,45,2
+264,anneli nesbakken,2333635962,45,2
+265,michael j harrower,2428135238,27,1
+266,peter masters,2225229069,30,2
+267,birger stichelbaut,2032927348,49,3
+268,jaime awe,2173167140,35,1
+269,gyles iannone,2122861598,35,1
+270,holley moyes,2049498015,35,1
+271,jason yaeger,2042174567,35,1
+272,m kathryn brown,2155875498,35,1
+273,ramesh l shrestha,2658503792,51,3
+274,william e carter,2305002241,83,4
+275,juan carlos fernandez diaz,2421841220,70,2
+276,albert yumin lin,2798401905,33,1
+277,alexandre novo,2306069960,114,6
+278,shay harnoy,673652672,33,1
+279,nathan ricklin,2083464779,33,1
+280,kostas stamatiou,2016160904,33,1
+281,l capineri,1972047346,12,1
+282,p falorni,1911930833,12,1
+283,g borgioli,1986020164,12,1
+284,andrea bulletti,2033499538,12,1
+285,s valentini,2227230301,12,1
+286,sergey ivashov,2080565558,12,1
+287,andrey zhuravlev,2016305497,12,1
+288,vladimir razevig,2029525818,12,1
+289,igor vasiliev,2274147446,12,1
+290,michele paradiso,2690976038,12,1
+291,m inagaki,2501556526,12,1
+292,c windsor,2443689563,12,1
+293,t bechtel,1964055496,12,1
+294,luigia nuzzo,2311959461,64,3
+295,sergio negri,2475331732,59,3
+296,vasiliki lysandrou,2467911471,39,3
+297,kyoji doi,2633421815,7,1
+298,kazunori takahashi,2258673350,7,1
+299,hanumant singh,2246091788,45,1
+300,jonathan adams,2479077230,45,1
+301,david a mindell,2077970540,67,3
+302,brendan foley,2098955788,45,1
+303,christiana papoutsa,1988478294,36,1
+304,george papadavid,2082864321,36,1
+305,rosa maria cavalli,2305176804,84,4
+306,francesca colosi,1865453616,46,1
+307,angelo palombo,2113064632,72,3
+308,stefano pignatti,2065385335,84,4
+309,maurizio poscolieri,2694747168,46,1
+310,raffaele persico,2095231049,37,2
+311,ian barnes,2598286043,43,1
+312,renato saleri,2020311921,12,1
+313,marc pierrotdeseilligny,1984000208,12,1
+314,emmanuel bardiere,2222739301,12,1
+315,valeria cappellini,2306030603,12,1
+316,nicolas nony,2151549409,12,1
+317,livio de luca,2131431302,12,1
+318,massimiliano campi,2154970795,12,1
+319,ralf hesse,2696516467,24,1
+320,rosa coluzzi,2305406398,66,3
+321,david kennedy,2170009896,93,2
+322,henrique lorenzo,2139025173,82,4
+323,fernando i rial,1872054508,50,2
+324,mercedes solla,2580057629,50,2
+325,albane burenscarozza,294891508,12,1
+326,pierre grussenmeyer,2091646378,12,1
+327,s guillemin,2052679633,12,1
+328,laurent carozza,2600847694,12,1
+329,francois leveque,2569661268,12,1
+330,vivien mathe,2599880734,12,1
+331,javier fernandezlozano,2581557153,16,1
+332,gabriel gutierrezalonso,2133618624,32,2
+333,emily a hinz,2305162603,16,2
+334,john f ferguson,2173513813,8,1
+335,louise pellerin,2040670238,8,1
+336,ann f ramenofsky,2336383998,8,1
+337,helen king,2487829615,10,1
+338,nigel king,2325300397,10,1
+339,syed ali aqdus,1972711476,38,3
+340,w s hanson,2161810323,49,5
+341,jane drummond,2132260494,38,3
+342,aihui jiang,2272031919,13,2
+343,luigi capozzoli,2154570752,19,2
+344,gerardo romano,2140959287,19,2
+345,maria sileo,1962934975,25,3
+346,panpan tang,2164229351,23,3
+347,panpan chen,2255883579,19,2
+348,guolin liu,2603510863,9,1
+349,lei luo,2687459879,19,1
+350,xinyuan wang,2306823122,19,1
+351,huadong guo,2115863081,19,1
+352,chuansheng liu,2646100689,19,1
+353,jie liu,2671113638,19,1
+354,li li,2647415036,19,1
+355,xiaocui du,2169115916,19,1
+356,guoquan qian,2648413183,19,1
+357,s crutchley,2462802763,28,1
+358,carlo piga,2424344075,3,1
+359,luca piroddi,2041519449,3,1
+360,elisa pompianu,2343241902,3,1
+361,gaetano ranieri,2634218520,3,1
+362,stefano stocco,2659739095,3,1
+363,antonio trogu,2096830771,3,1
+364,mark d mccoy,1993885308,39,1
+365,gregory p asner,1998136094,39,1
+366,michael w graves,2297741447,39,1
+367,p fallavollita,2666131524,9,1
+368,m balsi,2752689776,9,1
+369,s esposito,2751222217,9,1
+370,m g melis,2650881237,9,1
+371,m milanese,2676963956,9,1
+372,luca zappino,376715825,9,1
+373,juan carlos fernandezdiaz,2132520524,38,2
+374,ramesh l shrestha,2101017188,32,1
+375,craig l glennie,1991356509,32,1
+376,takayuki okochi,2054293707,27,1
+377,yasuharu hoshino,2167990452,27,1
+378,hiroyuki fujii,2551227746,27,1
+379,takumi mitsutani,2800566954,27,1
+380,alexander tscharf,2587403515,10,1
+381,markus rumpler,1977674323,10,1
+382,friedrich fraundorfer,739217077,10,1
+383,gerhard mayer,2110823546,10,1
+384,horst bischof,2048481453,10,1
+385,alice claire gorman,2139493662,48,3
+386,urs boniger,1957109557,20,1
+387,jens tronicke,1759056120,20,1
+388,helen patterson,2634149077,35,1
+389,jaroslava panisova,1968541329,10,1
+390,marek frastia,1490052762,10,1
+391,tina wunderlich,2103595327,10,1
+392,roman pasteka,2293484238,10,1
+393,david kusnirak,1983672347,10,1
+394,lara de giorgi,2553554634,13,1
+395,giuseppe scardozzi,2686564327,25,3
+396,nicole dore,2143835462,46,4
+397,jolanda patruno,2009218270,46,4
+398,eric pottier,1930818359,11,1
+399,mattia crespi,2293820698,11,1
+400,wendy weaver,2177029759,15,1
+401,stanley a ahler,2074220008,25,1
+402,stephen h savage,2097394260,13,1
+403,thomas e levy,2309122928,22,3
+404,ian w n jones,2464522004,13,1
+405,paolo salonia,1855708696,16,1
+406,serena scolastico,1992325099,16,1
+407,andrea pozzi,2439253285,16,1
+408,andrea marcolongo,1934983169,16,1
+409,tommaso leti messina,2002832873,16,1
+410,simon crutchley,1664205314,49,2
+411,timothy saey,2086375726,30,3
+412,birger stichelbaut,2797071750,20,2
+413,veerle van eetvelde,1902659110,20,2
+414,marc van meirvenne,204222322,33,3
+415,lev eppelbaum,1965615194,36,1
+416,boris khesin,2149908056,36,1
+417,sonya e itkis,1989776452,36,1
+418,jeffrey e lucius,2705107727,32,1
+419,elena bonali,1731906438,10,1
+420,a pesci,2650308125,10,1
+421,g casula,2722622979,10,1
+422,enzo boschi,2165376601,10,1
+423,s suganthi,2663377035,5,1
+424,k srinivasan,2550749701,5,1
+425,k haubeck,2299315918,6,1
+426,torsten prinz,2125257750,6,1
+427,tommy ike hailey,2552152799,19,1
+428,s malagodi,2070005598,46,1
+429,luciana orlando,2172039928,78,3
+430,s piro,2720009175,46,1
+431,f rosso,2305407655,46,1
+432,christopher carey,2560991001,55,2
+433,tony brown,2711381588,39,1
+434,andy j howard,2247292572,114,4
+435,lynden p cooper,2134064181,39,1
+436,igor miholjek,2628048938,12,1
+437,mattia crespi,2304410050,12,1
+438,eric pottier,2495836570,12,1
+439,michel dabas,2058258699,65,5
+440,gianfranco morelli,1971021672,23,2
+441,fabio bruno,2137354898,25,3
+442,maurizio muzzupappa,139988561,25,3
+443,antonio lagudi,367839808,13,2
+444,alessandro gallo,2265260061,20,2
+445,francesco spadafora,2036915485,8,1
+446,gerardo ritacco,2665367255,13,2
+447,a angilica,2640454240,8,1
+448,loris barbieri,2132451646,13,2
+449,n di lecce,2225064621,8,1
+450,giacomo saviozzi,2158499183,8,1
+451,cecilia laschi,286952618,8,1
+452,r guida,2427543796,8,1
+453,g di stefano,2681616185,8,1
+454,carl p lipo,2443735199,29,1
+455,terry l hunt,2043174931,29,1
+456,selma kadioglu,2168137632,4,1
+457,john k hillier,2461460373,24,1
+458,judith bunbury,1932622197,24,1
+459,angus graham,2523822650,24,1
+460,peter holt,2647491427,20,1
+461,fabrizio terenzio gizzi,2031652222,23,1
+462,jonathan l carrivick,192218211,26,1
+463,mark w smith,2617356783,26,1
+464,duncan j quincey,2026582504,26,1
+465,steve carver,2161849260,26,1
+466,a lagudi,2808851455,12,1
+467,b davidde petriaggi,2682934997,12,1
+468,salvatore passaro,1900052055,12,1
+469,ole martin bollandsas,2159992795,21,1
+470,hans ole orka,307237144,21,1
+471,erik naesset,2130404121,21,1
+472,terje gobakken,86663967,21,1
+473,stefan erasmi,1678881218,17,1
+474,ralph rosenbauer,2305808187,17,1
+475,ralf buchbach,2631061446,17,1
+476,thomas busche,2655685028,17,1
+477,susanne muriel rutishauser,2043466164,17,1
+478,jeremy green,2143004190,33,1
+479,sheila matthews,2115671785,33,1
+480,tufan turanli,2607061015,33,1
+481,g leblanc,2818287102,20,2
+482,margaret kalacska,2089029783,10,1
+483,raymond soffer,2309001444,10,1
+484,konstantinos g nikolakopoulos,2561999872,11,1
+485,konstantina soura,2521299248,11,1
+486,ioannis koukouvelas,754045434,11,1
+487,nikolaos argyropoulos,2120983740,11,1
+488,giorgos papadavid,2278732804,19,2
+489,john schultz,2125273185,40,2
+490,michael m martin,2586474977,29,1
+491,rafael holmgren,2609421251,9,1
+492,y backe forsberg,2300885633,9,1
+493,bjoern h menze,2039442281,4,1
+494,jason ur,1430897697,20,2
+495,giovanni maria carlomagno,1965809585,16,1
+496,rosa di maio,2506914586,16,1
+497,maurizio fedi,2093564473,16,1
+498,carosena meola,2103363013,16,1
+499,martin j f fowler,2495405225,59,2
+500,jeanpaul deroin,1962718514,31,2
+501,florian tereygeol,269525963,25,1
+502,jurgen heckes,2396570167,25,1
+503,ginesse a listi,305562247,11,1
+504,mary h manhein,211405542,11,1
+505,michael leitner,2119022519,11,1
+506,paolo mozzi,2907320691,6,1
+507,alessandro fontana,2282610807,6,1
+508,francesco ferrarese,2026177842,6,1
+509,andrea ninfo,2013490024,6,1
+510,roberto francese,2511048172,6,1
+511,jeanpierre toumazet,1994084642,3,1
+512,franck vautier,2625167437,3,1
+513,erwan roussel,2898146690,3,1
+514,bertrand dousteyssier,2806983318,3,1
+515,j l davis,2524551721,45,1
+516,j a heginbottom,2664193632,45,1
+517,a p annan,2644842042,45,1
+518,r s daniels,2525998374,45,1
+519,b p berdal,2580768073,45,1
+520,t bergan,2525048760,45,1
+521,k e duncan,2525145247,45,1
+522,p k lewin,2654886883,45,1
+523,j s oxford,2526679894,45,1
+524,n roberts,2527637295,45,1
+525,j j skehel,2598249520,45,1
+526,c r smith,2525685245,45,1
+527,anthony corns,2136335310,25,1
+528,robert shaw,2171091052,25,1
+529,dimitris kaimaris,1983130135,25,2
+530,olga georgoula,2043861242,26,2
+531,petros patias,682610978,26,2
+532,eustratios stylianidis,2084757237,22,1
+533,enrico borgogno mondino,2059200152,3,1
+534,luigi perotti,2692015324,3,1
+535,marco piras,1968523863,3,1
+536,deng biao,2673260233,6,1
+537,thomas oliver pryce,2010148488,22,2
+538,m j abrams,2709918107,11,1
+539,william megarry,2302339804,3,1
+540,gabriel cooney,2113440608,3,1
+541,douglas c comer,1965876590,11,2
+542,carey e priebe,2144812577,3,1
+543,mariam samaan,2638762585,7,1
+544,raphaele heno,2586825931,7,1
+545,marc pierrotdeseilligny,2226352149,7,1
+546,yannick van hollebeeke,2297158594,9,1
+547,stephanie verplaetse,2420596929,9,1
+548,michael rogers,2149215337,12,1
+549,jeffrey f leon,2143368555,12,1
+550,kevin d fisher,2097163636,12,1
+551,sturt w manning,2326812004,16,2
+552,david a sewell,2496204321,12,1
+553,rosa maria cavalli,2707631004,20,1
+554,giorgio licciardi,1533580016,20,1
+555,jocelyn chanussot,1995330977,20,1
+556,philippe smet,2126899833,20,1
+557,dirk poelman,1970773585,20,1
+558,t van damme,2562550613,9,1
+559,ralf hesse,2682075049,14,1
+560,john gater,2120432532,59,3
+561,roger white,2148580738,40,1
+562,lars holger pilo,2632528483,22,1
+563,stine barlindhaug,2233673106,17,1
+564,inger marie holmolsen,2636873272,17,1
+565,hans tommervik,2631685629,17,1
+566,stefano campana,2190919569,41,5
+567,francesco soldovieri,662759263,23,2
+568,joseangel martinezdelpozo,1986549303,3,1
+569,enrique cerrillocuenca,346384598,3,1
+570,ernesto salastovar,220352867,3,1
+571,a mouget,2318143263,6,1
+572,g lucet,2628809062,6,1
+573,eleni diamanti,2106220596,11,1
+574,fotini vlachaki,2717189156,11,1
+575,f mercuri,2159697704,15,1
+576,roberta gnoli,2638594626,15,1
+577,s paoloni,2634039643,15,1
+578,noemi orazi,1719070581,15,1
+579,cristina cicero,2227447098,15,1
+580,u zammit,1829473803,15,1
+581,m marinelli,2792227454,15,1
+582,f scudieri,431790006,15,1
+583,peng lu,2642719917,10,1
+584,qifeng ge,2744784462,10,1
+585,wei zhou,2627561254,4,1
+586,hongchao wang,2693355889,4,1
+587,xin lu,2566770251,4,1
+588,timo balz,1160624271,8,2
+589,paul e buck,1971398447,20,1
+590,donald e sabol,2159295795,20,1
+591,alan r gillespie,2136943937,20,1
+592,yang lin,2336580750,7,1
+593,bruce chapman,2151248842,20,2
+594,edwin roman,2166885453,14,1
+595,jose luis garrido lopez,2556217711,14,1
+596,margaret brown vega,2310374343,10,1
+597,nathan craig,1977077451,10,1
+598,gerbert asencios lindo,2010729639,10,1
+599,carrie hritz,2661484647,23,1
+600,vid petrovic,2442924155,6,1
+601,david vanoni,2112491573,6,1
+602,ashley m richter,2183259269,6,1
+603,falko kuester,1975749114,6,1
+604,shanti pappu,2158148924,22,1
+605,kumar akhilesh,2580858403,22,1
+606,sudha ravindranath,2151007825,22,1
+607,uday raj,1866305057,22,1
+608,boleslo e romero,2322387078,10,1
+609,tamara l bray,2127388498,10,1
+610,veronique de laet,1822452753,14,2
+611,gertrud van loon,2145908065,11,1
+612,athena van der perre,2315420599,11,1
+613,iris deliever,2554973321,11,1
+614,harco willems,2113513447,11,1
+615,anna schneider,2128216079,17,1
+616,melanie takla,2061988325,17,1
+617,alexander nicolay,2149713663,17,1
+618,alexandra raab,2025667892,17,1
+619,thomas raab,1992513227,17,1
+620,kurt a jordan,2126753665,16,1
+621,derya maktav,1360304923,5,1
+622,james crow,2573919998,5,1
+623,c kolay,2061225052,5,1
+624,b yegen,2168054161,5,1
+625,bihrat onoz,144938103,5,1
+626,filiz sunar,1945145238,5,1
+627,g coskun,2713663937,5,1
+628,h karadogan,1608008508,5,1
+629,m cakan,2013272917,5,1
+630,i akar,2690350351,5,1
+631,c uysal,2638000344,5,1
+632,d gucluer,352929536,5,1
+633,b geze,1983708620,5,1
+634,g ince,2652544907,5,1
+635,timothy murtha,2003299285,7,1
+636,bruce d cook,2141281351,7,1
+637,derek shaffer,2648809741,7,1
+638,whittaker schroder,2142418498,7,1
+639,elijah j hermitt,2712197541,7,1
+640,omar alcover firpi,2514079686,7,1
+641,andrew k scherer,2169520167,7,1
+642,m c hernandez,2683766552,24,1
+643,v cuellar,2661347963,24,1
+644,maria danese,2101568107,15,1
+645,herbert h nelson,2167501035,4,1
+646,daniel a steinhurst,2075892826,4,1
+647,david wright,2710134747,4,1
+648,tom furuya,2648172093,4,1
+649,j r mcdonald,2579042655,4,1
+650,kazuya nakano,2409063806,8,1
+651,hirofumi chikatsu,1705905948,8,1
+652,jay k johnson,2397719753,35,2
+653,marco giardano,2549205119,35,2
+654,r berle clay,2284107172,35,2
+655,thomas j green,2556780817,35,2
+656,rinita a dalan,2093835385,56,4
+657,carrie a healy,2581560072,11,1
+658,kenneth parker,2718109987,11,1
+659,bim lowers,2084921354,11,1
+660,s j winterbottom,2707986727,18,1
+661,tom dawson,2590650281,18,1
+662,amelia carolina sparavigna,44995039,3,1
+663,p pandey,2680388219,3,1
+664,g venkataraman,2708859788,3,1
+665,travis freeland,2516925689,14,1
+666,brandon heung,2552847950,14,1
+667,david v burley,1989736159,14,1
+668,geoffrey clark,2110778013,14,1
+669,anders knudby,2060985242,14,1
+670,federica boschi,2108166555,8,2
+671,daniel p bigman,2318398811,17,1
+672,christopher sevara,2310247771,20,2
+673,wilfried karel,2155243864,42,4
+674,camillo ressl,1953889480,21,2
+675,ronald peikert,2591446475,23,1
+676,cristiana bassani,2043845686,21,1
+677,roberto goffredo,2635457114,21,1
+678,simone pascucci,1979140108,38,3
+679,jarrod burks,2721858661,16,1
+680,robert a cook,2095800617,16,1
+681,raf trommelmans,2297390270,26,1
+682,ignace bourgeois,2021237153,26,1
+683,ahmed gaber,2059470363,13,1
+684,magaly koch,2170652813,13,1
+685,m helmi griesh,364503106,13,1
+686,keith morrison,2160686087,10,1
+687,rory quinn,2099601777,33,1
+688,jonathan m bull,2303550216,33,1
+689,justin k dix,2145340102,33,1
+690,brooke a berard,2253056947,17,1
+691,j m maillol,2707589084,17,1
+692,jenny hallstrom,2144445565,17,1
+693,kerstin barup,1293095884,17,1
+694,rasmus gronlund,2226942039,17,1
+695,ann johansson,2301177141,17,1
+696,sune svanberg,1988922197,17,1
+697,lorenzo palombi,2046692187,17,1
+698,david lognoli,2082836310,17,1
+699,valentina raimondi,2087678774,52,2
+700,giovanna cecchi,2093374627,52,2
+701,cinzia conti,2706246750,17,1
+702,m mirza,2681820977,8,1
+703,g dawod,2643921049,8,1
+704,k alghamdi,2687999616,8,1
+705,thomas l sever,2142960093,39,1
+706,daniel e irwin,2507932216,39,1
+707,rachel opitz,2147751813,17,3
+708,krysta ryzewski,2049036736,9,1
+709,john f cherry,2487663814,9,1
+710,brenna moloney,2616701902,9,1
+711,david bescoby,2132416217,36,5
+712,christian a kull,1804644575,29,1
+713,mariangela noviello,2222578724,17,1
+714,vito de pasquale,2666438644,17,1
+715,jeffrey fleisher,2221595565,14,1
+716,paul cheetham,2108954026,14,1
+717,harry manley,2345655611,14,1
+718,c steele,2522552910,14,1
+719,stephanie wynnejones,1999896335,14,1
+720,raffaella brumana,210273175,8,1
+721,daniela oreni,56393418,8,1
+722,l van hecke,2789777154,8,1
+723,luigi barazzetti,2791746955,8,1
+724,mattia previtali,2115814184,8,1
+725,fabio roncoroni,730126969,8,1
+726,r valente,2745635594,8,1
+727,c richard bates,2651714760,10,1
+728,mark lawrence,2430500885,10,1
+729,martin dean,2554603063,10,1
+730,philip robertson,2802105558,10,1
+731,volkmar schultze,2099708036,33,3
+732,sven linzen,2314233517,33,3
+733,tim schuler,2190849388,21,2
+734,a chwala,1965510008,33,3
+735,ronny stolz,2133916682,33,3
+736,marco schulz,2291888949,33,3
+737,hansgeorg meyer,2191669100,21,2
+738,yvonne m fowler,2636239501,25,1
+739,brady liss,2291309024,3,1
+740,matthew howland,2104900665,3,1
+741,koen meuleman,2011002973,14,2
+742,peter tianyuan shih,2618056586,13,1
+743,yahsing chen,2610003017,13,1
+744,jiechung chen,2133269388,13,1
+745,pier matteo barone,2623044542,17,2
+746,elisabetta mattei,2164024915,22,3
+747,sebastian lauro,2312096208,22,3
+748,elena pettinelli,2134259626,22,3
+749,norbert pfeifer,2294009452,10,1
+750,hohe warte,2614987275,10,1
+751,hiroyuki kamei,2053300735,11,1
+752,magdy ahmed atya,2634050108,11,1
+753,tareq fahmy abdallatif,2024375324,15,2
+754,masato mori,2426923688,11,1
+755,pasomphone hemthavy,1577893859,11,1
+756,francesc cecilia conesa,1992657615,10,1
+757,marco madella,2127322216,10,1
+758,nikolaos galiatsatos,1123723900,15,2
+759,andrea l balbo,2061637240,10,1
+760,s v rajesh,2480807005,10,1
+761,p ajithprasad,386977350,10,1
+762,martin seeliger,2690381875,20,1
+763,melanie bartz,1964161871,20,1
+764,ercan erkul,2150204603,20,1
+765,stefan feuser,1973152643,20,1
+766,daniel kelterbaum,49589419,20,1
+767,christina klein,2164201793,20,1
+768,felix pirson,2233564742,20,1
+769,andreas vott,2271540644,20,1
+770,helmut bruckner,2124453595,20,1
+771,kristof kovacs,2034161008,4,1
+772,klaus hanke,2012204181,4,1
+773,michael moser,2569070917,4,1
+774,a stampolidis,2506582038,27,2
+775,grigorios tsokas,2442140551,18,1
+776,r lancaster,2016034403,3,1
+777,gabriele bitelli,1974174592,17,1
+778,valentina alena girelli,2009232757,17,1
+779,lisa dojack,2284696897,6,1
+780,nicholas kouchoukos,2650095023,29,1
+781,m t carrozzo,2649306499,21,1
+782,david c cowley,2664729062,12,1
+783,anthony lauricella,2686452938,7,1
+784,joshua cannon,2754730254,7,1
+785,scott branting,2704284662,7,1
+786,emily hammer,2558511706,7,1
+787,martin pfennigbauer,1984630923,14,2
+788,andreas ullrich,2302897515,14,2
+789,johan linderholm,1955272244,3,1
+790,paul geladi,2714448718,3,1
+791,thomas j pingel,2779316201,7,1
+792,keith c clarke,2172250303,7,1
+793,anabel ford,2321084894,7,1
+794,joseph keeney,2324907245,8,2
+795,robert hickey,2166158159,4,1
+796,david b landry,2023448923,10,2
+797,ian j ferguson,2096874881,10,2
+798,s brooke milne,2007240275,10,2
+799,robert w park,2122736535,10,2
+800,dwight f coleman,2124581530,16,1
+801,james b newman,2429501991,16,1
+802,robert d ballard,2137295604,16,1
+803,ronald g blom,2099550923,14,2
+804,a endre nyerges,2066575932,32,1
+805,glen m green,2117770660,32,1
+806,w de clercq,2129685005,10,1
+807,p de smedt,2019385222,10,1
+808,j de reu,2122117783,10,1
+809,davy herremans,1989001936,10,1
+810,m van meirvenne,1958905759,15,2
+811,hugh thomas,2574001131,4,1
+812,munzer jahjah,2034022524,27,2
+813,carlo ulivieri,2145632385,27,2
+814,p uribe,2439257534,5,1
+815,j angas,2514142810,5,1
+816,fernando perezcabello,169560458,5,1
+817,j de la riva,2029853703,5,1
+818,m bea,2685861082,5,1
+819,a serreta,2701197081,5,1
+820,m a magallon,2083642977,5,1
+821,c saenz,2699663577,5,1
+822,m martinbueno,2497534081,5,1
+823,martin j f fowler,2086781045,22,1
+824,tito scalo,2718585804,9,1
+825,bruce w bevan,2420203940,14,1
+826,dan lynch,2309316414,14,1
+827,steven l de vore,2602521429,14,1
+828,steve adamek,2117527102,14,1
+829,travis martin,2627658797,14,1
+830,george r holley,2117259751,14,1
+831,michael g michlovic,2338445987,14,1
+832,t schuler,2139106363,12,1
+833,n bondarenko,2441626105,12,1
+834,h g meyer,2422365190,12,1
+835,james bonsall,2021166513,12,1
+836,rob fry,2127947565,12,1
+837,ian armit,68388792,12,1
+838,erica utsi,2046487927,10,1
+839,luca pantani,1903590323,35,1
+840,luisa tomaselli,2153822757,35,1
+841,gioia lamenti,1150244051,35,1
+842,piero tiano,2210918654,35,1
+843,roberto chiari,1987233562,35,1
+844,michele pipan,2429882779,24,1
+845,l baradello,2684354287,24,1
+846,emanuele forte,2172112119,24,1
+847,i finetti,2256625874,24,1
+848,edward r henry,2598956861,14,1
+849,benedetto figorito,2304269144,26,2
+850,eufemia tarantino,2148977935,26,2
+851,brian bingham,1984016579,22,2
+852,timothy k perttula,92902669,13,1
+853,chester p walker,2165852064,13,1
+854,t clay schultz,2126264140,13,1
+855,s piro,2706528108,42,2
+856,paolo mauriello,1996378006,42,2
+857,fabio cammarano,1656840180,42,2
+858,c r i clayton,2128403331,13,1
+859,ayse gulcin kucukkaya,2552061552,17,1
+860,jason t herrmann,2138427236,15,1
+861,aaron s fogel,2141668186,15,1
+862,gary priestnall,279175341,31,1
+863,adam gardner,2142015761,31,1
+864,julian henderson,2320744171,31,1
+865,sarah l ohara,2127506177,31,1
+866,david simpson,2102230708,18,2
+867,alexander lehouck,2238069331,26,2
+868,erik thoen,2603518603,13,1
+869,j vervloet,450796590,13,1
+870,eileen g ernenwein,1226780862,33,2
+871,christine markussen,2094366038,21,1
+872,m dabas,2807362270,10,1
+873,l marasco,1994827996,10,1
+874,s piro,2750614163,10,1
+875,d zamuner,2686676132,10,1
+876,antonio pecci,2560749717,6,1
+877,felice perciante,2222374910,6,1
+878,denise pozzi escot,2560046138,6,1
+879,manuela scavone,2560026677,6,1
+880,william bowden,2117642245,5,1
+881,p n chroston,2483349907,5,1
+882,antonio invernizzi,2495477823,13,1
+883,roberto parapetti,2684670826,13,1
+884,jeroen de reu,1976847193,6,1
+885,jan trachet,2224169795,6,1
+886,pieter laloo,2080515429,6,1
+887,wim de clercq,2498276890,6,1
+888,arianna traviglia,2892424799,9,1
+889,andrea torsello,2044774160,9,1
+890,james schindling,2507254882,9,1
+891,cerian gibbes,2031578206,9,1
+892,michael griffin,2096691495,27,1
+893,lieven verdonck,2405619446,11,2
+894,devi taelman,1971194197,6,1
+895,nicolas poirier,2102506906,11,1
+896,florent hautefeuille,1983129072,11,1
+897,carine calastrenc,994671570,11,1
+898,oscar pueyo anchuela,1999750939,3,1
+899,pilar diarte blasco,2195272779,3,1
+900,carlos garcia benito,2141092292,3,1
+901,antonio maria casas sainz,2230121297,3,1
+902,andres pocovi juan,2126785964,3,1
+903,david stott,2315665737,9,1
+904,doreen s boyd,2160112189,9,1
+905,anthony g cohn,2149556533,9,1
+906,doria kutrubes,2663442112,10,1
+907,henrique lorenzo,2798508891,18,2
+908,salvatore piro,2703540400,11,1
+909,roberto gabrielli,2635248078,21,2
+910,mark grasmueck,2556912297,8,1
+911,dave a viggiano,2551169975,8,1
+912,e b banning,2143910474,4,1
+913,alicia l hawkins,2147420677,4,1
+914,s t stewart,2488342828,4,1
+915,t saunders,2238354957,13,1
+916,j adcock,2130587243,13,1
+917,william h marquardt,2618961478,10,1
+918,karen j walker,2156865643,10,1
+919,seth quintus,2778404904,8,1
+920,jeffrey t clark,2619252977,8,1
+921,stephanie s day,2613799645,8,1
+922,donald p schwert,2079878494,8,1
+923,hui zhou,2427972608,8,1
+924,albert hesse,2575541492,20,1
+925,jeanne tabbagh,2550266427,20,1
+926,ulrich kamp,1859524246,11,1
+927,kevin gregory mcmanigal,2057878238,11,1
+928,avirmed dashtseren,2085448860,11,1
+929,michael walther,2893116646,11,1
+930,laurent lescop,32128012,3,1
+931,serge cassen,2004281250,3,1
+932,m de la vega,2162891848,9,1
+933,ana osella,2241665427,9,1
+934,e lascano,2425120783,9,1
+935,jose m carcione,2642836476,9,1
+936,adrian s z chase,2590737022,4,1
+937,katrijn dirix,1535513966,7,1
+938,philippe muchez,1973026617,7,1
+939,patrick degryse,2650262079,7,1
+940,branko music,2429987054,10,2
+941,jeroen poblome,2786927370,10,2
+942,carlotta ferrara,2473293692,3,1
+943,pier matteo barone,2687992820,3,1
+944,d mavromati,1972908333,8,1
+945,e petsa,2442965923,8,1
+946,g karras,2462085443,8,1
+947,oyvind odegard,2149858535,7,2
+948,martin ludvigsen,2011983895,7,2
+949,petter a lagstad,2046644046,4,1
+950,julien thiesson,2345799392,15,1
+951,sebastien flageul,2690758708,15,1
+952,marco dubbini,279142927,4,1
+953,lucia irene curzio,2414177667,4,1
+954,alessandro campedelli,2099290276,4,1
+955,julien thiesson,2747303078,6,1
+956,gabrielle rousselle,2031486362,6,1
+957,francois xavier simon,2306039719,6,1
+958,alain tabbagh,152426863,6,1
+959,m harrower,2156081638,18,1
+960,joy mccorriston,2025801155,18,1
+961,eric a oches,2078453418,18,1
+962,luca ghiraldi,2238584420,5,1
+963,enrico giordano,2795989602,5,1
+964,luigi perotti,2051065585,5,1
+965,marco giardino,717756032,5,1
+966,margret c fuchs,2108359744,24,2
+967,sebastian kreutzer,2101437981,12,1
+968,christoph burow,1414860512,12,1
+969,michael dietze,2229576275,12,1
+970,manfred fischer,2160555418,12,1
+971,christoph schmidt,2222362852,12,1
+972,markus fuchs,1991308361,12,1
+973,franciscojavier mesascarrascosa,2210935584,8,1
+974,maria dolores notario garcia,2547947506,8,1
+975,jose emilio merono de larriva,2669609683,8,1
+976,alfonso garciaferrer,2089364264,8,1
+977,dirk h r spennemann,2017542781,21,1
+978,andy creekmore,2521543117,12,1
+979,pietro alessandro brivio,138879665,22,1
+980,monica pepe,2624394947,22,1
+981,roberto tomasoni,1978248346,22,1
+982,devin white,2152539063,16,2
+983,jera r davis,2320883431,7,1
+984,chester walker,2619580092,7,1
+985,john h blitz,2325041621,7,1
+986,daniele cerra,1814716107,4,1
+987,rosa maria cavalli,2906771769,4,1
+988,kasper hanus,2760851658,8,2
+989,damian evans,2122082519,8,2
+990,walter edwards,2096017775,14,1
+991,masaaki okita,2111602795,14,1
+992,giuseppe ceraudo,2755682180,8,1
+993,d zamuner,2646293644,8,1
+994,jason t herrmann,2321214624,4,1
+995,s piro,2572266508,10,1
+996,d peloso,2628838989,10,1
+997,monica bini,2041240759,4,1
+998,ilaria isola,2293736656,4,1
+999,giovanni zanchetta,1995955197,4,1
+1000,adriano ribolini,1968258470,4,1
+1001,andrea ciampalini,1984234500,4,1
+1002,ilaria baneschi,1991196607,4,1
+1003,daniela mele,2056158040,4,1
+1004,anna lucia dagata,2794729160,4,1
+1005,t f abdallatif,2004937277,10,1
+1006,s e mousa,2477588283,10,1
+1007,a elbassiony,1215251274,10,1
+1008,burkart ullrich,2109459611,12,2
+1009,georg kaufmann,2156867527,7,1
+1010,rudolf kniess,1645335128,7,1
+1011,henning zoellner,2006865411,7,1
+1012,michael meyer,2475563068,7,1
+1013,lilli keller,2463564081,7,1
+1014,till f sonnemann,1977423320,4,1
+1015,gino caspari,2224930249,4,1
+1016,bihong fu,2650737105,4,1
+1017,mingsheng liao,2115338332,4,1
+1018,fabio grasso,2629454641,4,1
+1019,jose maria terron,2615879228,4,1
+1020,victorino mayoral,2173573911,4,1
+1021,jose angel salgado,2586948558,4,1
+1022,francisco antonio galea,2427317937,4,1
+1023,victor hurtado perez,2115023927,4,1
+1024,carlos p odriozola,2010034703,4,1
+1025,pedro mateos,2906486697,4,1
+1026,antonio pizzo,2420849515,4,1
+1027,alessandro cozza,2547972195,5,1
+1028,marco cozza,2548826251,5,1
+1029,raffaele peluso,2679968877,5,1
+1030,marco lupia,1950117210,5,1
+1031,gianni cario,2227213847,5,1
+1032,matthew meredithwilliams,2345334127,12,1
+1033,niklas hausmann,2622958390,12,1
+1034,geoffrey n bailey,2120037947,12,1
+1035,g c p king,2894331191,12,1
+1036,abdullah alsharekh,2345007489,12,1
+1037,s al ghamdi,2635633529,12,1
+1038,robyn helen inglis,2582351741,12,1
+1039,hector a orengo,1999271583,6,1
+1040,h odah,2470167007,9,1
+1041,t f abdallatif,2681834516,9,1
+1042,i a elhemaly,2596196892,9,1
+1043,e abd elall,2087679524,9,1
+1044,massimo sciotti,2084582921,12,1
+1045,fabiola colone,2018287118,12,1
+1046,debora pastina,2144855372,12,1
+1047,t bucciarelli,2427592505,12,1
+1048,ioana a oltean,2894383519,7,1
+1049,alina tsugai,210077964,4,1
+1050,jueri plado,2574260741,4,1
+1051,argo joeleht,1964487765,4,1
+1052,aivar kriiska,1227838316,4,1
+1053,mario mustasaar,2091395107,4,1
+1054,hanna raig,2030352033,4,1
+1055,jan risberg,1982253052,4,1
+1056,alar rosentau,1902667613,4,1
+1057,martina ballarin,2521439054,3,1
+1058,caterina balletti,2138856276,6,2
+1059,francesco guerra,2124609330,6,2
+1060,arnaud meline,2433391155,7,1
+1061,jean triboulet,2047177467,7,1
+1062,bruno jouvencel,2688013967,7,1
+1063,gilles bossuet,1998562999,6,1
+1064,matthieu thivet,1237190333,6,1
+1065,sylvain trillaud,1990620683,6,1
+1066,eric marmet,2303458034,6,1
+1067,clement laplaige,1219498374,6,1
+1068,g hullin,369757409,6,1
+1069,a favard,2805792737,6,1
+1070,l combe,2686412011,6,1
+1071,e barres,2698331026,6,1
+1072,s lacaze,2648934647,6,1
+1073,laurent aubry,2608669079,6,1
+1074,m chassang,2593770401,6,1
+1075,a mourot,2654845315,6,1
+1076,christian camerlynck,1256865192,6,1
+1077,luigi magnini,2566694367,5,1
+1078,cinzia bettineschi,2563119659,5,1
+1079,armando de guio,2681862031,5,1
+1080,c britt bousman,2059785729,6,1
+1081,tuna kalayci,2723651877,12,1
+1082,martin wieser,2246449086,5,1
+1083,heather richardsrissetto,2757540693,6,1
+1084,igor zingman,193640279,8,1
+1085,armin schmidt,2252597813,17,2
+1086,hassan fazeli,2214591733,13,1
+1087,koreen millard,2628636807,15,1
+1088,charles burke,2556594557,15,1
+1089,douglas stiff,2137286137,15,1
+1090,anna m redden,2099489372,15,1
+1091,r k mishra,2656904413,5,1
+1092,p n s roy,2426459036,5,1
+1093,j pandey,2662153160,5,1
+1094,a khalkho,2650137234,5,1
+1095,v k singh,2665972751,5,1
+1096,evaristo ricchetti,2064578527,11,2
+1097,s cheyney,2008937374,9,1
+1098,ian a hill,2612910638,9,1
+1099,glenn c conroy,1139615552,8,1
+1100,christopher stewart,2587266890,8,2
+1101,juan ortiz,2491991773,6,1
+1102,ma luz gil,2138674915,6,1
+1103,santiago martinez,2596913217,6,1
+1104,teresa rego,2087552566,6,1
+1105,gonzalo meijide,2128305203,6,1
+1106,joachim matthes,2133768698,15,1
+1107,christiane meyburg,2423517693,15,1
+1108,g n tsokas,1784202376,72,6
+1109,r o hansen,2558486775,23,2
+1110,torsten prinz,2629182423,4,1
+1111,benedikt lasar,222325786,4,1
+1112,karl peter kruger,2607528534,4,1
+1113,i mertzanidis,402519633,9,1
+1114,p tsourlos,1982013178,41,4
+1115,r hamza,2682321246,9,1
+1116,c chrisafis,2258948706,9,1
+1117,d ambonis,400062024,9,1
+1118,i tavlakis,430297177,9,1
+1119,fabio dagnano,2567403720,3,1
+1120,paolo vernier,2118100892,3,1
+1121,pedro arias,2129105287,8,1
+1122,rebecca bennett,2713894437,8,1
+1123,jamie k pringle,2114834168,9,1
+1124,matteo giubertoni,1996052790,18,2
+1125,nigel j cassidy,1966540491,9,1
+1126,kristopher d wisniewski,2233299030,9,1
+1127,j d hansen,2464375007,9,1
+1128,rebecca m daniels,2695758569,9,1
+1129,milena nowak,2623660728,4,1
+1130,rebecca nowak,2646782943,4,1
+1131,erminio paolo canavese,2676764450,4,1
+1132,paolo forti,2089377162,4,1
+1133,angelo naseddu,233347078,4,1
+1134,luciano ottelli,2278233754,4,1
+1135,roberta tedeschi,2714081995,4,1
+1136,angel munoznieto,2170161141,9,1
+1137,julia armesto,2143217907,9,1
+1138,k tan,2423746496,4,1
+1139,y wan,2577937456,4,1
+1140,x zhou,2697811398,4,1
+1141,d song,2578607064,4,1
+1142,q duan,2482627708,4,1
+1143,rosanna montanaro,2528860591,5,1
+1144,maura sala,2715029058,5,1
+1145,paolo riccardi,2643428262,5,1
+1146,christian m milea,2038406380,6,1
+1147,c b papazachos,2273027011,27,2
+1148,ken hamilton,2096526074,7,1
+1149,derrold w holcomb,2147678711,64,3
+1150,i shennan,2697863097,17,1
+1151,d n m donoghue,2574283405,17,1
+1152,ricardo roura,2045179083,3,1
+1153,rory mcneary,2577033186,6,1
+1154,rania bou kheir,2894323810,6,1
+1155,chadi abdallah,2737884456,6,1
+1156,r castaldo,2893301819,7,1
+1157,lorenzo crocco,2054900548,7,1
+1158,m fedi,2898593646,7,1
+1159,b garofalo,2687508548,7,1
+1160,a rossi,2577553070,7,1
+1161,m pappa,2702889199,21,1
+1162,m bessios,2304392396,21,1
+1163,antonios giannopoulos,1969302706,21,1
+1164,alicia m gonzalez,2288573020,6,1
+1165,dan thompson,2417939006,6,1
+1166,steve elkins,2661411760,6,1
+1167,mandyam b rajani,2115745385,4,1
+1168,sumanta k patra,2106372914,4,1
+1169,mamta verma,2499051174,4,1
+1170,thomas reitmaier,2635749553,4,1
+1171,kaimarisdimitris,2902841797,3,1
+1172,patiaspetros,2902834293,3,1
+1173,wim cornelis,2171171057,5,1
+1174,a plyson,2796732539,5,1
+1175,i a oltean,2892461005,4,1
+1176,awni batayneh,2074866530,9,1
+1177,a savvaidis,2639588897,14,1
+1178,y liritzis,2655084164,14,1
+1179,m apostolou,2667761249,14,1
+1180,gregory mumford,2464503392,7,1
+1181,sarah parcak,2515199597,7,1
+1182,maria cristina salvi,2687760907,6,1
+1183,riccardo salvini,2252096632,6,1
+1184,alice cartocci,2887557705,6,1
+1185,simone kozciak,2752989297,6,1
+1186,rosalia gallotti,1787702816,6,1
+1187,marcello piperno,2749516295,6,1
+1188,parker vanvalkenburgh,2290867266,6,1
+1189,chester p walker,2673513733,6,1
+1190,jennie o sturm,2507679122,6,1
+1191,jose a torres,2479179397,5,1
+1192,david hernandezlopez,1938440400,5,1
+1193,miguel angel moreno hidalgo,2898983792,5,1
+1194,arnaud ansart,2026571690,3,1
+1195,frank braemer,1834630594,3,1
+1196,gourguen davtian,2190636616,3,1
+1197,matthias leopold,2080797760,5,1
+1198,evey gannaway,1555956061,5,1
+1199,jorg volkel,1993768934,5,1
+1200,florian haas,2101577674,5,1
+1201,michael becht,2094483638,5,1
+1202,tobias heckmann,2290548054,5,1
+1203,markus westphal,2171091909,5,1
+1204,gerhard zimmer,2573568232,5,1
+1205,d c cowley,2592204599,12,1
+1206,garry momber,1963679340,10,1
+1207,mathew geen,2627807981,10,1
+1208,vincenzo di fiore,2148111630,3,1
+1209,giuseppe cavuoto,905060839,3,1
+1210,michele punzo,1985319573,3,1
+1211,daniela tarallo,2051593117,3,1
+1212,marco casazza,2617643259,3,1
+1213,silvio marco guarriello,2749135925,3,1
+1214,massimiliano lega,2462263179,3,1
+1215,john mckim malville,2162121609,11,1
+1216,lalit m gujral,1815116540,11,1
+1217,karl w wegmann,2121520824,6,1
+1218,delwayne r bohnenstiehl,2308188854,6,1
+1219,jeffrey d bowman,2304374150,6,1
+1220,jeffrey a homburg,2620331654,6,1
+1221,jason d windingstad,2634607698,6,1
+1222,derek beery,2577103501,6,1
+1223,alessandro de masi,2506683114,3,1
+1224,m guarneri,2140064477,3,1
+1225,luigi de dominicis,2028804826,3,1
+1226,mario ferri de collibus,238193114,3,1
+1227,g fornetti,2032203573,3,1
+1228,m francucci,1519253220,3,1
+1229,marcello nuvoli,2051228215,3,1
+1230,alessandro danielis,2024326903,3,1
+1231,arianna mencattini,53382717,3,1
+1232,l fiorani,2640054348,5,1
+1233,m bortone,2673448874,5,1
+1234,s mattei,2720420943,5,1
+1235,c ruocchio,2643216171,5,1
+1236,s vetrella,2711792656,5,1
+1237,antonio salome,2707701740,5,1
+1238,s p lukyanov,2627518947,3,1
+1239,r a stepanov,2078863236,3,1
+1240,o v stukach,2441285625,3,1
+1241,dimitrios kaimaris,1987106047,4,1
+1242,georgios karadedos,2068428576,4,1
+1243,g scardozzi,2718474167,3,1
+1244,heather papworth,2554214743,4,1
+1245,david thackray,2692463029,4,1
+1246,keith wilkinson,2172181237,5,1
+1247,giuseppe scardozzi,2691512463,3,1
+1248,p m barone,2787949778,5,1
+1249,t bellomo,2567193472,5,1
+1250,j barto arnold,2246046381,3,1
+1251,maurizio forte,2424575265,12,2
+1252,martin j f fowler,2712535262,25,2
+1253,asgeir j sorensen,2137051530,3,1
+1254,roy edgar hansen,2153500247,3,1
+1255,emma louise cunliffe,2609270324,4,1
+1256,s loya,2402011306,3,1
+1257,tito scalo,2694057314,3,1
+1258,diane l evans,2127297357,5,1
+1259,tom g farr,2142715642,5,1
+1260,ioana a oltean,2005808793,4,1
+1261,lauren l abell,2106906514,4,1
+1262,m j lawrence,2723225355,10,1
+1263,c r bates,2700626901,10,1
+1264,alison s lathrop,2684573388,6,1
+1265,ballard e ebbett,2484618675,6,1
+1266,tan ke,2491317632,4,1
+1267,wan yu,2662569438,4,1
+1268,leonidas toulios,305287434,3,1
+1269,j m maillol,2664884417,7,1
+1270,d l ciobotaru,2576639153,7,1
+1271,i moravetz,1898237342,7,1
+1272,martin gade,2076559774,3,1
+1273,jorn kohlus,188485624,3,1
+1274,cornelia kost,2762676608,3,1
+1275,giuseppe scardozzi,2764474546,4,1
+1276,jocelyn bernatchez,2165303107,5,1
+1277,curtis w marean,17460094,5,1
+1278,nobuya watanabe,2323684998,4,1
+1279,shinichi nakamura,2263110287,4,1
+1280,bin liu,2671325542,4,1
+1281,ningyuan wang,2661881233,4,1
+1282,steven d sheriff,2465050035,5,1
+1283,douglas h macdonald,2096474154,5,1
+1284,david s dick,2490174937,5,1
+1285,sofia theodoridou,2218484508,6,1
+1286,kostas tokmakidis,2181705493,6,1
+1287,dimitris scarlatos,2182017840,6,1
+1288,e podest,2224924575,6,1
+1289,robert murowchick,2693572855,6,1
+1290,kent schneider,2128553595,5,1
+1291,agamemnon g pantel,2490489547,5,1
+1292,danny donohoe,2319041849,9,1
+1293,dirk hoffmeister,2190477742,3,1
+1294,stefan zellmann,2014743128,3,1
+1295,andreas pastoors,2044607236,3,1
+1296,martin kehl,1968640845,3,1
+1297,pedro cantalejo,2472946714,3,1
+1298,jose ramos,2482608193,3,1
+1299,gerdchristian weniger,2467556457,3,1
+1300,georg bareth,117876849,3,1
+1301,y nishimura,2637035535,8,1
+1302,t uno,2207967247,8,1
+1303,t yamamoto,2375968395,8,1
+1304,william j folan,71795095,22,1
+1305,joyce marcus,2127118708,22,1
+1306,w frank miller,2141008232,22,1
+1307,thomas m urban,2321818248,4,1
+1308,jeffrey t rasic,2021401682,4,1
+1309,claire alix,2805965415,4,1
+1310,douglas d anderson,2395836469,4,1
+1311,owen k mason,2110723104,4,1
+1312,andrew h tremayne,2496649216,4,1
+1313,christopher b wolff,2477198403,4,1
+1314,antonio m montufo,2220115143,15,1
+1315,robert gearhart,2259220079,3,1
+1316,nikos t papadopoulos,2296398384,3,1
+1317,s papamarinopoulos,1926667776,8,2
+1318,a liosis,2052140027,5,1
+1319,l polymenakos,2686836447,5,1
+1320,p stephanopoulos,389925490,5,1
+1321,k limnaeoupapakosta,418942528,5,1
+1322,m b rajani,2590282957,5,1
+1323,k kasturirangan,2420228726,5,1
+1324,rami alruzouq,2476165625,3,1
+1325,abdelrahman abueladas,2337855097,3,1
+1326,l castrianni,662915516,3,1
+1327,g di giacomo,2162139323,3,1
+1328,i ditaranto,393082463,3,1
+1329,denisse argoteespino,2047003610,7,1
+1330,rene e chavez,2107751175,7,1
+1331,fabien hoblea,61053366,3,1
+1332,nathalie cayla,1248576289,3,1
+1333,pierre renau,2468753008,3,1
+1334,gavin c cawley,738756060,7,1
+1335,p neil chroston,1443903179,7,1
+1336,peter l steere,2522859347,21,1
+1337,payson sheets,1790116258,21,1
+1338,brian r mckee,2126438951,21,1
+1339,david gilman romano,2385896151,8,1
+1340,e luck,2642611152,10,1
+1341,m eisenreich,2721881854,10,1
+1342,john cloud,2644506547,16,1
+1343,cornelius meyer,2558170139,5,1
+1344,christophe d m barlieb,2285538018,5,1
+1345,tomasz herbich,1047917680,7,1
+1346,krzysztof misiewicz,2695956281,7,1
+1347,otto teschauer,2294168248,7,1
+1348,karim sadr,2088121346,3,1
+1349,chris cox,2723667071,23,1
+1350,mancheol suh,2170578814,4,1
+1351,jinyong oh,2140172356,4,1
+1352,kim ki hyun,2706008851,4,1
+1353,nikos papadopoulos,2810799665,10,2
+1354,e kokkinou,2471678691,5,1
+1355,b wells,2153267715,5,1
+1356,a penttinen,2427764531,5,1
+1357,e savini,2707160057,5,1
+1358,ermanno finzi,2636075210,3,1
+1359,nicola praticelli,2034996848,3,1
+1360,l vettore,2497891916,3,1
+1361,a zaja,2633336606,3,1
+1362,r walker,2571741110,6,1
+1363,e wood,2642144270,6,1
+1364,jorge lira,2098322392,4,1
+1365,p lopez,2635868688,4,1
+1366,alejandro rodriguez,2138347178,4,1
+1367,d f coleman,2712415475,7,1
+1368,r d ballard,2805834578,7,1
+1369,t gregory,2279891539,7,1
+1370,hugh thomas,2763023026,3,1
+1371,richard n palmer,2097519593,3,1
+1372,p merola,2627130855,3,1
+1373,a allegrini,2798367278,3,1
+1374,d guglietta,2655558194,3,1
+1375,s sampieri,1967526211,3,1
+1376,alastair ruffell,1811864990,5,1
+1377,john wilson,2607002073,5,1
+1378,m c corney,2647862805,4,1
+1379,vl gaffney,2309589374,4,1
+1380,c f gaffney,2679571446,4,1
+1381,fabio di salvo,2324248355,3,1
+1382,mauro lo brutto,2892822347,3,1
+1383,benjamin f richason,2341793889,4,1
+1384,carrie hritz,2337138877,4,1
+1385,bernd kulessa,2020053215,6,2
+1386,beverly chiarulli,2273932139,3,1
+1387,susanne haney,1970056358,3,1
+1388,kristiaan verhoeven,2530900941,5,1
+1389,luc daels,379863180,5,1
+1390,huw barton,2646149371,3,1
+1391,thomas l carr,2309098916,8,1
+1392,mort d turner,2432640485,8,1
+1393,konstantinos perakis,2669659503,3,1
+1394,athanasios moysiadis,295209173,3,1
+1395,robert sablatnig,209192686,8,1
+1396,christian menard,2715847837,8,1
+1397,mark r schurr,2012989086,5,1
+1398,barbara luke,2612434574,6,1
+1399,james e brady,2502038880,6,1
+1400,p merola,2643470093,3,1
+1401,a allegrini,2668126463,3,1
+1402,s bajocco,2682398347,3,1
+1403,mostafa fayek,2174095665,3,1
+1404,mathieu de meyer,2631636126,3,1
+1405,martijn van leusen,53406127,5,1
+1406,pamela sands showalter,2640728408,10,1
+1407,george c philip,2304289829,5,1
+1408,eyal bendor,2118942296,6,1
+1409,juval portugali,1216790474,6,1
+1410,moshe kochavi,2689588853,6,1
+1411,michal shimoni,2527401623,6,1
+1412,lipaz vinitzky,2664298756,6,1
+1413,guenter grabher,2396902768,4,1
+1414,david lashlee,2522377515,6,1
+1415,frederick l briuer,1489056481,6,1
+1416,william l murphy,2483915848,6,1
+1417,eric v mcdonald,2647362353,6,1
+1418,m dogan,2598664704,3,1
+1419,robert h webb,2135936968,4,1
+1420,diane e boyer,2149462328,4,1
+1421,raymond m turner,2143694348,4,1
+1422,stephen h bullock,2151292291,4,1
+1423,d batmunkh,2698493511,4,1
+1424,s tosun,2430304905,4,1
+1425,b gundogdu,2464374028,4,1
+1426,m e candansayar,2670143785,4,1
+1427,e u ulugergerli,2663693255,4,1
+1428,f papi,2049734387,7,1
+1429,marco apollonio,1836625547,7,1
+1430,b vaschetti,2345089332,7,1
+1431,silvano benvenuti,1967058260,7,1
+1432,andrew r boucher,2664705985,4,1
+1433,jeffrey cody,2686876910,11,1
+1434,david buisseret,2658343922,11,1
+1435,e bozzo,2656132563,5,1
+1436,s lombardo,2632361482,5,1
+1437,f merlanti,2714777077,5,1
+1438,m pavan,2673577042,5,1
+1439,w frank miller,2702403065,4,1
+1440,thomas l sever,2712184488,4,1
+1441,c daniel lee,2203897527,4,1
+1442,elizabeth moore,2101580016,3,1
+1443,anthony freeman,2101129662,3,1
+1444,femke martens,2439608827,3,1
+1445,dominique similoxtohon,1978355624,3,1
+1446,gert verstraeten,2894348773,3,1
+1447,peter talloen,2805442579,3,1
+1448,inge uytterhoeven,168420452,3,1
+1449,erika luck,2509129011,4,1
+1450,manfred eisenreich,2010668809,4,1
+1451,ute spangenberg,1227248044,4,1
+1452,g christl,432039511,4,1
+1453,abel joel grout,2347137698,3,1
+1454,lee d slater,2672495537,3,1
+1455,kevin barton,2109711600,3,1
+1456,ervan g garrison,2147223250,3,1
